@@ -1,0 +1,12 @@
+# Site settings
+title: BLP Crypto
+email: your-email@example.com
+description: >-
+  BLP Crypto is an investment firm focused exclusively on ventures, tokens, and projects related to blockchain tech, digital currency, and crypto assets.
+baseurl: ""
+url: "https://blpcrypto.com"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap

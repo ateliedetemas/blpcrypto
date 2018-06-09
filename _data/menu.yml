@@ -1,0 +1,27 @@
+- lang: en
+  items:
+    - title: Funds
+      url: "/funds/"
+    - title: Tech Corner
+      url: "https://medium.com/"
+      external: true
+    - title: Team
+      url: "/team/"
+    - title: Terms
+      url: "/terms/"
+    - title: Contact
+      url: "/contact/"
+
+- lang: pt
+  items:
+    - title: Fundos
+      url: "/portugues/fundos/"
+    - title: Tech Corner
+      url: "https://medium.com/"
+      external: true
+    - title: Equipe
+      url: "/portugues/equipe/"
+    - title: Regulamento
+      url: "/portugues/regulamento/"
+    - title: Contato
+      url: "/portugues/contato/"

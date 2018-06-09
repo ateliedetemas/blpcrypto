@@ -1,0 +1,12 @@
+<header id="masthead" class="site-header">
+  <a class="site-title" href="{{ site.url }}">{{ site.title }}</a>
+
+  <nav class="main-menu">
+    {%- assign menu = site.data.menu | where:"lang", page.lang -%}
+    {%- assign i = menu | map: "items" -%}
+
+    {% for item in i[0] %}
+    <a {% if item.external %}href="{{ item.url }}" rel="external"{% else %}href="{{ item.url | relative_url }}"{% endif %}>{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+</header>
