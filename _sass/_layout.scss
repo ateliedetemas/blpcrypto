@@ -1,0 +1,154 @@
+/*
+  # Basic Structure
+*/
+
+#site {
+  @extend %wrapper;
+  display: flex;
+  flex-flow: column wrap;
+  min-height: 100vh;
+
+  #masthead {
+    align-self: flex-start;
+    justify-content: flex-start;
+  }
+
+  #content {
+    margin-top: auto;
+  }
+
+  #colophon {
+    margin-top: auto;
+  }
+}
+
+
+/*
+  # Site Header
+    Website branding and main navigation.
+*/
+.site-header {
+  width: 100%;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  display: flex;
+  flex-flow: row wrap;
+  @include relative-font-size(0.75);
+
+  .site-title {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+  }
+
+  #menu-toggle,
+  label[for="menu-toggle"] {
+    display: none;
+  }
+
+  .main-menu {
+    margin-left: auto;
+    margin-right: auto;
+
+    @include on-palm {
+      margin-left: 0;
+      margin-right: 0;
+      width: 100%;
+    }
+
+    a {
+      text-transform: uppercase;
+      letter-spacing: 0.3em;
+
+      &:not(:first-child) {
+        margin-left: $spacing-unit;
+      }
+
+      @include on-palm {
+        display: block;
+        text-align: center;
+        padding-top: $spacing-unit / 2;
+        padding-bottom: $spacing-unit / 2;
+        border-bottom: 1px solid rgba($color-text, 0.4);
+
+        &:not(:first-child) {
+          margin-left: 0;
+        }
+      }
+    }
+  }
+
+  .site-title ~ .main-menu {
+    margin-right: 0;
+  }
+
+  @include on-palm {
+    label[for="menu-toggle"] {
+      display: inline-block;
+      margin-left: auto;
+      align-self: flex-end;
+      text-transform: uppercase;
+      font-weight: normal;
+      letter-spacing: 0.5em;
+    }
+
+    .main-menu {
+      height: 0;
+      transform: scaleY(0);
+      transform-origin: top;
+      visibility: hidden;
+      transition: all 0.25s ease;
+    }
+
+    #menu-toggle:checked ~ .main-menu {
+      height: auto;
+      transform: scaleY(1);
+      visibility: visible;
+    }
+  }
+}
+
+/*
+  # Site Content
+    Everything between the header and the footer, including page-specific styles.
+*/
+
+#content {
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home {
+  h1 {
+    font-weight: 600;
+    @include relative-font-size(2);
+    margin-bottom: $spacing-unit;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    text-align: center;
+    color: $color-details;
+  }
+
+  p {
+    text-align: center;
+  }
+}
+
+
+/*
+  # Site Footer
+    Language switcher and site credits.
+*/
+.site-footer {
+  text-align: center;
+  @include relative-font-size(0.75);
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+
+  a:not(:last-child) {
+    margin-right: $spacing-unit;
+  }
+}

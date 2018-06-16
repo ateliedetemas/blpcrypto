@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: 'pt' }}">
   {% include head.html %}
 
-  <body class="{{ page.slug }}">
+  <body class="{{ page.slug | default: 'home' }}">
     <div id="site">
       {% include header.html %}
 

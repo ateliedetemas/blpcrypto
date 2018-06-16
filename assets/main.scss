@@ -1,0 +1,34 @@
+---
+# Hello, Jekyll!
+---
+/*
+  # Setting style variables.
+    We will start setting font, color, and structure variables that will help us to create a beautiful, consistent design.
+*/
+
+// Font and text-related variables.
+$base-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+$base-font-size: 1rem;
+$base-line-height: 1.5;
+$base-font-weight: 300;
+
+// Color palette.
+$color-text: rgba(#ECEBE4, 0.6);
+$color-background: #1D1919;
+$color-accent: #EAC381;
+$color-details: #FFFFFF;
+
+// Structure and spacing variables.
+$content-width: 768px;
+$spacing-unit: 20px;
+$palm-width: 600px;
+$laptop-width: 800px;
+
+/*
+  # Importing partials.
+    To keep our stylesheet organized, we are splitting our styles between different files (called `partials`). Each one have a little explanation of what the file contains.
+*/
+@import "mixins",
+        "reset",
+        "base",
+        "layout";

@@ -1,0 +1,51 @@
+/*
+  # Mixins and extenders
+    Styles in this partial aren't printed in the compiled CSS file. They are helpers – they help us to make a less redundant and more organized workflow.
+*/
+
+// Media Queries
+@mixin on-palm {
+  @media screen and (max-width: $palm-width) {
+    @content;
+  }
+}
+
+@mixin on-laptop {
+  @media screen and (max-width: $laptop-width) {
+    @content;
+  }
+}
+
+@mixin on-desktop {
+  @media screen and (min-width: $laptop-width + 1px) {
+    @content;
+  }
+}
+
+// Relative font size handler
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Wrapper
+%clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+%wrapper {
+  width: 100%;
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * #{2}));
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+  margin-left: auto;
+  margin-right: auto;
+  @extend %clearfix;
+
+  @include on-palm {
+    max-width: calc(#{$content-width} - #{$spacing-unit});
+    padding-left: $spacing-unit / 2;
+    padding-right: $spacing-unit / 2;
+  }
+}
