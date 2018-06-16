@@ -7,6 +7,8 @@ baseurl: ""
 url: "https://blpcrypto.com"
 
 # Build settings
+permalink: pretty
+
 markdown: kramdown
 plugins:
   - jekyll-sitemap

@@ -5,6 +5,8 @@ html {
 *,
 *::before, *::after {
   box-sizing: inherit;
+  outline: none;
+  box-shadow: none;
 }
 
 body {
@@ -21,6 +23,67 @@ body {
   # Text Elements
 */
 
+strong, b {
+  font-weight: 700;
+}
+
+em, i {
+  font-style: italic;
+}
+
+p, ul, ol, dl,
+table, blockquote, pre,
+audio, video, embed, iframe, object,
+h1, h2, h3, h4, h5, h6,
+%vertical-rhythm {
+  margin-bottom: $spacing-unit;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6, {
+  font-weight: 600;
+  text-align: center;
+
+  &::after {
+    content: " ";
+    display: block;
+    width: 75px;
+    height: 2px;
+    background-color: $color-accent;
+    border-radius: 2px;
+    margin: $spacing-unit / 2 auto;
+  }
+}
+
+h1 {
+  @include relative-font-size(1.75);
+  margin-top: $spacing-unit * 2;
+}
+
+h2 {
+  @include relative-font-size(1.5);
+  margin-top: $spacing-unit * 6;
+}
+
+h3 {
+  @include relative-font-size(1.25);
+}
+
+h4 {
+  @include relative-font-size(1);
+}
+
+h5 {
+  @include relative-font-size(0.875);
+}
+
+h6 {
+  @include relative-font-size(0.75);
+}
+
 // Links
 a {
   color: inherit;
@@ -30,5 +93,21 @@ a {
   &:hover,
   &:focus {
     color: $color-accent;
+  }
+}
+
+// Tables
+table {
+  width: 100%;
+
+  thead {
+    text-align: left;
+    font-weight: 700;
+  }
+
+  th, td {
+    padding-top: $spacing-unit / 2;
+    padding-bottom: $spacing-unit / 2;
+    border-bottom: 1px solid rgba($color-accent, 0.1);
   }
 }

@@ -69,17 +69,12 @@
         text-align: center;
         padding-top: $spacing-unit / 2;
         padding-bottom: $spacing-unit / 2;
-        border-bottom: 1px solid rgba($color-text, 0.4);
 
         &:not(:first-child) {
           margin-left: 0;
         }
       }
     }
-  }
-
-  .site-title ~ .main-menu {
-    margin-right: 0;
   }
 
   @include on-palm {
@@ -90,6 +85,7 @@
       text-transform: uppercase;
       font-weight: normal;
       letter-spacing: 0.5em;
+      cursor: pointer;
     }
 
     .main-menu {
@@ -106,6 +102,11 @@
       visibility: visible;
     }
   }
+
+  .site-title ~ .main-menu,
+  .site-title ~ label[for="menu-toggle"] {
+    margin-right: 0;
+  }
 }
 
 /*
@@ -113,13 +114,28 @@
     Everything between the header and the footer, including page-specific styles.
 */
 
-#content {
-  max-width: 650px;
-  margin-left: auto;
-  margin-right: auto;
+.page {
+  .page-header {
+    margin-bottom: $spacing-unit;
+
+    .page-title {
+      font-weight: 600;
+      margin-bottom: 0;
+      @include relative-font-size(1.875);
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+    }
+  }
 }
 
+// Home Page
 .home {
+  .site-header {
+    label[for="menu-toggle"] {
+      margin-right: auto;
+    }
+  }
+
   h1 {
     font-weight: 600;
     @include relative-font-size(2);
@@ -128,6 +144,8 @@
     letter-spacing: 0.25em;
     text-align: center;
     color: $color-details;
+    margin-bottom: $spacing-unit * 2;
+    margin-top: 0;
   }
 
   p {
@@ -135,6 +153,40 @@
   }
 }
 
+
+// Funds
+.products {
+  display: flex;
+  flex-flow: row wrap;
+
+  h2 {
+    flex: 0 0 100%;
+    max-width: none;
+  }
+
+  .product {
+    flex: 0 0 33%;
+    min-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 $spacing-unit;
+
+    h3 {
+      margin-top: $spacing-unit * 2;
+      margin-bottom: $spacing-unit / 2;
+      text-align: left;
+
+      &::after {
+        content: none;
+      }
+    }
+
+    @include on-palm {
+      flex: 0 0 100%;
+      width: 100%;
+    }
+  }
+}
 
 /*
   # Site Footer
