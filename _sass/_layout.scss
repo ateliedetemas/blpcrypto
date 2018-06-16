@@ -146,6 +146,10 @@
     color: $color-details;
     margin-bottom: $spacing-unit * 2;
     margin-top: 0;
+
+    &::after {
+      content: none;
+    }
   }
 
   p {
@@ -185,6 +189,39 @@
       flex: 0 0 100%;
       width: 100%;
     }
+  }
+}
+
+// Team
+.profile {
+  margin-top: $spacing-unit * 2;
+  margin-bottom: $spacing-unit * 4;
+  position: relative;
+  padding-left: 175px;
+
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  @include on-palm {
+    padding-left: 0;
+    
+    img {
+      display: none;
+    }
+  }
+
+  strong {
+    color: rgba($color-text, 0.7);
+    display: inline-block;
+    margin-bottom: $spacing-unit / 2;
+  }
+
+  em {
+    display: inline-block;
+    margin-bottom: $spacing-unit / 2;
   }
 }
 
