@@ -3,8 +3,8 @@ title: BLP Crypto
 email: your-email@example.com
 description: >-
   BLP Crypto is an investment firm focused exclusively on ventures, tokens, and projects related to blockchain tech, digital currency, and crypto assets.
-baseurl: ""
-url: "https://ateliedetemas.github.io/blpcrypto"
+baseurl: "/blpcrypto"
+url: "https://ateliedetemas.github.io"
 
 # Build settings
 permalink: pretty

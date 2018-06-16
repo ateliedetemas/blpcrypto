@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8" />
 
-  <title>{%- if page.title -%}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <title>{%- unless page.url == '/' -%}{{ page.title }} – {% endunless %}{{ site.title }}</title>
   <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | normalize_whitespace | truncate: 160 | default: site.description }}" />
 
   <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
