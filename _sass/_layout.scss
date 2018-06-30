@@ -1,7 +1,6 @@
 /*
   # Basic Structure
 */
-
 #site {
   @extend %wrapper;
   display: flex;
@@ -21,7 +20,6 @@
     margin-top: auto;
   }
 }
-
 
 /*
   # Site Header
@@ -113,7 +111,6 @@
   # Site Content
     Everything between the header and the footer, including page-specific styles.
 */
-
 .page {
   .page-header {
     margin-bottom: $spacing-unit;
@@ -126,14 +123,33 @@
       letter-spacing: 0.2em;
     }
   }
+
+  .page-content {
+    a {
+      color: $color-details;
+
+      &:hover,
+      &:focus {
+        color: $color-accent;
+      }
+    }
+  }
 }
 
 // Home Page
 .home {
   .site-header {
+    flex-flow: 0 0 auto;
     label[for="menu-toggle"] {
       margin-right: auto;
     }
+  }
+
+  .site-content {
+    height: calc(#{100vh} - #{115px});
+    display: inline-flex;
+    flex-flow: column wrap;
+    justify-content: center;
   }
 
   h1 {
@@ -156,7 +172,6 @@
     text-align: center;
   }
 }
-
 
 // Funds
 .products {
@@ -207,7 +222,7 @@
 
   @include on-palm {
     padding-left: 0;
-    
+
     img {
       display: none;
     }
@@ -234,10 +249,43 @@
   @include relative-font-size(0.75);
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
-  text-transform: uppercase;
-  letter-spacing: 0.3em;
+
+  a {
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+  }
 
   a:not(:last-child) {
     margin-right: $spacing-unit;
+  }
+
+  .disclaimer {
+    .seal {
+      display: inline-block;
+      float: left;
+      background: $color-details;
+      line-height: 0;
+      margin-right: $spacing-unit / 2;
+      margin-bottom: $spacing-unit / 4;
+
+      img {
+        width: 200px;
+      }
+
+      @include on-palm {
+        float: none;
+        margin-bottom: $spacing-unit / 2;
+        margin-left: auto;
+        margin-right: auto;
+
+        img {
+          width: 100%;
+        }
+      }
+    }
+
+    margin-top: $spacing-unit;
+    text-align: justify;
+    max-width: none;
   }
 }

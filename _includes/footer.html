@@ -1,4 +1,14 @@
 <footer id="colophon" class="site-footer">
   <a href="{{ site.url }}" hreflang="en"><abbr title="English" lang="en">EN</a>
   <a href="{{ '/portuguese/' | relative_url }}" hreflang="pt"><abbr title="Português" lang="pt">PT</a>
+
+
+  {% if page.url == "/" %}
+  <p class="disclaimer">
+    <span class="seal">
+      <img src="{{ '/assets/images/selo-anbima.png' | absolute_url }}" alt="Selo de aprovação Anbima" />
+    </span>
+    A BLP Asset Management não comercializa nem distribui cotas de fundos de investimentos. Leia o prospecto e o regulamento antes de investir. As Lâminas de Informações Essenciais encontram-se disponíveis no site do Administrador. Rentabilidade passada não representa garantia de rentabilidade futura. A aplicação de recursos em fundos de investimento, assim como qualquer investimento realizado nos mercados financeiro e de capitais, pode resultar em perda do capital investido. A rentabilidade divulgada não é líquida de impostos. Os fundos de investimento não contam com garantia do Administrador, do Gestor, de qualquer mecanismo de seguro ou fundo garantidor de crédito (FGC). Os fundos adotam estratégias com derivativos como parte integrante de suas políticas de investimento, as quais, da forma como são implementadas, podem vir a resultar em significativas perdas patrimoniais aos seus cotistas. Os fundos de investimentos podem ficar expostos, em consonância com suas respectivas políticas de investimento, à significativa concentração em ativos de poucos emissores, apresentando, assim, os riscos daí decorrentes. Os fundos podem, conforme o caso, estar autorizados a efetuar aplicações em ativos financeiros no exterior. A BLP Asset Management não se responsabiliza por quaisquer erros ou omissões no conteúdo das informações divulgadas nesse website, sendo as informações de caráter exclusivamente informativo, não devendo ser entendidas como uma oferta ou recomendação para aquisição de quotas de qualquer fundo gerido pela BLP Asset Management.
+  </p>
+  {% endif %}
 </footer>

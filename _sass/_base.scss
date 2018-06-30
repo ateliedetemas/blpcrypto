@@ -111,3 +111,69 @@ table {
     border-bottom: 1px solid rgba($color-accent, 0.1);
   }
 }
+
+// Forms
+label {
+  @include relative-font-size(0.875);
+  font-weight: 700;
+  display: block;
+}
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+  font: inherit;
+  color: inherit;
+  background: inherit;
+  -webkit-appearance: none;
+  border: none;
+  border-bottom: 2px solid $color-details;
+  transition: border-bottom-color 0.25s ease-in-out;
+
+  &:focus,
+  &:active {
+    border-bottom-color: $color-accent;
+  }
+}
+
+input {
+  width: 350px;
+
+  @include on-palm {
+    width: 100%;
+  }
+}
+
+textarea {
+  width: 600px;
+  resize: none;
+  height: 150px;
+
+  @include on-palm {
+    width: 100%;
+  }
+}
+
+button {
+  font: inherit;
+  -webkit-appearance: none;
+  border: 2px solid $color-details;
+  border-radius: none;
+  color: $color-details;
+  font-weight: 700;
+  background: inherit;
+  padding: $spacing-unit / 4 $spacing-unit / 2;
+  transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out;
+
+  @include on-palm {
+    width: 100%;
+    padding: $spacing-unit / 2;
+  }
+
+  &:hover,
+  &:focus {
+    color: $color-accent;
+    border-color: $color-accent;
+    cursor: pointer;
+  }
+}

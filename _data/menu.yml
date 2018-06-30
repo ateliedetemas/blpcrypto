@@ -1,27 +1,27 @@
 - lang: en
   items:
     - title: Funds
-      url: "/funds/"
+      url: "/english/funds/"
     - title: Tech Corner
       url: "https://medium.com/"
       external: true
     - title: Team
-      url: "/team/"
+      url: "/english/team/"
     - title: Terms
-      url: "/terms/"
+      url: "/english/terms/"
     - title: Contact
-      url: "/contact/"
+      url: "/english/contact/"
 
 - lang: pt
   items:
     - title: Fundos
-      url: "/portugues/fundos/"
+      url: "/fundos/"
     - title: Tech Corner
       url: "https://medium.com/"
       external: true
     - title: Equipe
-      url: "/portugues/equipe/"
+      url: "/equipe/"
     - title: Regulamento
-      url: "/portugues/regulamento/"
+      url: "/regulamento/"
     - title: Contato
-      url: "/portugues/contato/"
+      url: "/contato/"
