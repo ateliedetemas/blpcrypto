@@ -3,7 +3,7 @@
     - title: Funds
       url: "/english/funds/"
     - title: Tech Corner
-      url: "https://medium.com/"
+      url: "https://medium.com/tech-corner"
       external: true
     - title: Team
       url: "/english/team/"
@@ -17,7 +17,7 @@
     - title: Fundos
       url: "/fundos/"
     - title: Tech Corner
-      url: "https://medium.com/"
+      url: "https://medium.com/tech-corner"
       external: true
     - title: Equipe
       url: "/equipe/"

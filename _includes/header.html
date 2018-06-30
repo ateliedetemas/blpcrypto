@@ -1,6 +1,6 @@
 <header id="masthead" class="site-header">
   {%- unless page.url == '/' -%}
-  <a class="site-title" href="{{ site.baseurl }}">{{ site.title }}</a>
+  <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
   {%- endunless -%}
 
   <input id="menu-toggle" type="checkbox" />
