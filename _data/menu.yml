@@ -3,8 +3,7 @@
     - title: Funds
       url: "/english/funds/"
     - title: Tech Corner
-      url: "https://medium.com/tech-corner"
-      external: true
+      url: "/english/tech-corner/"
     - title: Team
       url: "/english/team/"
     - title: Terms
@@ -24,6 +23,5 @@
       url: "/regulamento/"
     - title: Tech Corner
       url: "/tech-corner/"
-      external: true
     - title: Contato
       url: "/contato/"

@@ -22,7 +22,4 @@ Este fundo é direcionado para investidores profissionais.
 - **Administrador** – Planner.
 - **Gestora** - BLP Gestora de Recursos LTDA.
 - **Auditor** – Crowe Horwath.
-- **Legal** – Freitas Leite. 
-
-
-{% include products.html %}
+- **Legal** – Freitas Leite.
