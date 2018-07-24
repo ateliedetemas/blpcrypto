@@ -96,6 +96,16 @@ a {
   }
 }
 
+// Lists
+ul, ol, {
+  font-size: 90%;
+
+  li {
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
+  }
+}
+
 // Tables
 table {
   width: 100%;

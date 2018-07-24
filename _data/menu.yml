@@ -14,14 +14,16 @@
 
 - lang: pt
   items:
-    - title: Fundos
-      url: "/fundos/"
-    - title: Tech Corner
-      url: "https://medium.com/tech-corner"
-      external: true
+    - title: Fundo
+      url: "/fundo/"
+    - title: Cota & Rentabilidade
+      url: "/rentabilidade/"
     - title: Equipe
       url: "/equipe/"
-    - title: Regulamento
+    - title: Manuais & Políticas
       url: "/regulamento/"
+    - title: Tech Corner
+      url: "/tech-corner/"
+      external: true
     - title: Contato
       url: "/contato/"
