@@ -14,7 +14,7 @@ Faça o download dos regulamentos da BLP Asset:
 
 [Manual de Normas e Condutas Internas]({{ '/assets/documents/normas-condutas.pdf' | absolute_url }})
 
-[Políticas de Risco]({{ '/assets/documents/politica-risco.pdf' }})
+[Políticas de Risco]({{ '/assets/documents/manual-risco.pdf' }})
 
 [Política para gerenciamento de liquidez]({{ '/assets/documents/gerenciamento-liquidez.pdf' }})
 
