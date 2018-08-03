@@ -8,14 +8,14 @@ Faça o download dos regulamentos da BLP Asset:
 
 [Regulamento do fundo]({{ '/assets/documents/regulamento.pdf' | absolute_url }})
 
-[Formulário de referência]({{ '/assets/documents/referencia-v1.pdf' | absolute_url }})
+[Formulário de referência]({{ '/assets/documents/form-referencia.pdf' | absolute_url }})
 
-[Política de Voto]({{ '/assets/documents/politica-voto-11-2017.pdf' | absolute_url }})
+[Política de Exercício de Direito de Voto]({{ '/assets/documents/direito-de-voto.pdf' | absolute_url }})
 
-[Manual de normas e conduta interna]({{ '/assets/documents/normas-condutas-17-11.pdf' | absolute_url }})
+[Manual de Normas e Condutas Internas]({{ '/assets/documents/normas-condutas.pdf' | absolute_url }})
 
-[Política de risco consolidada]({{ '/assets/documents/politica-risco-22-2017.pdf' }})
-
-[Manual de precificação]({{ '/assets/documents/precificacao-23-11.pdf' }})
+[Políticas de Risco]({{ '/assets/documents/politica-risco.pdf' }})
 
 [Política para gerenciamento de liquidez]({{ '/assets/documents/gerenciamento-liquidez.pdf' }})
+
+[Manual de precificação]({{ '/assets/documents/precificacao-23-11.pdf' }})
