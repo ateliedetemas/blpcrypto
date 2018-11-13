@@ -15,8 +15,10 @@
   items:
     - title: Fundo
       url: "/fundo/"
-    - title: Cota & Rentabilidade
+    - title: Cotas
       url: "/rentabilidade/"
+    - title: Relatórios
+      url: "/relatorios/"
     - title: Equipe
       url: "/equipe/"
     - title: Manuais & Políticas
