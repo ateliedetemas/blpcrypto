@@ -13,8 +13,13 @@
 
 - lang: pt
   items:
-    - title: Fundo
-      url: "/fundo/"
+    - title: Fundos
+      url: "/fundos/"
+      items:
+        - title: BLP CryptoAssets FIM
+          url: "/fundos/assets-fim/"
+        - title: BLP CryptoAtivos FIM
+          url: "/fundos/ativos-fim/"
     - title: Cotas
       url: "/rentabilidade/"
     - title: Relatórios

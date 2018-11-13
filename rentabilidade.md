@@ -1,19 +1,9 @@
 ---
 lang: pt
 layout: page
-title: Cota & Rentabilidade
+title: Cotas & Rentabilidade
 ---
 
-Período | Fundo | CDI | Bitcoin (R$)
----|---|---|---
-**out/18** | -13,85% | 0,54% | -11,50%
-**set/18** | -11.63% | 0,47% | -8.90%
-**ago/18** | -8,56% | 0,57% | -0,40%
-**jul/18** | 4,50% | 0,54% | 18,30%
-**jun/18** | -17,57% | 0,52% | -11,80%
-**mai/18** | -14,11% | 0,52% | -12,90%
-**abr/18** | 61,16% | 0,52% | 38,80%
-**mar/18** | -33,74% | 0,53% | -31,30%  
-**fev/18** | -1,78% | 0,46% | 4,40%
-**jan/18** | -19,19% | 0,58% | -31,00%  
-**Ano**  | **-56,35%** | **5,38%** | **-49,85%**
+{:.funds-list}
+- [BLP CryptoAssets FIM]({{ '/rentabilidade/assets-fim/' | relative_url }})
+- BLP CryptoAtivos FIM (em breve)

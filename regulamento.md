@@ -6,8 +6,6 @@ title: Manuais & Políticas
 
 Faça o download dos regulamentos da BLP Asset:
 
-[Regulamento do fundo]({{ '/assets/documents/regulamento.pdf' | absolute_url }})
-
 [Formulário de referência]({{ '/assets/documents/form-referencia.pdf' | absolute_url }})
 
 [Política de Exercício de Direito de Voto]({{ '/assets/documents/direito-de-voto.pdf' | absolute_url }})

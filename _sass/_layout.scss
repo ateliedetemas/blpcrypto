@@ -121,6 +121,7 @@
       @include relative-font-size(1.875);
       text-transform: uppercase;
       letter-spacing: 0.2em;
+      max-width: 550px;
     }
   }
 
@@ -131,6 +132,18 @@
       &:hover,
       &:focus {
         color: $color-accent;
+      }
+    }
+
+    .funds-list {
+      text-align: center;
+      font-weight: 700;
+      display: block;
+
+      li {
+        display: block;
+        margin-top: $spacing-unit / 2;
+        margin-bottom: $spacing-unit / 2;
       }
     }
   }
