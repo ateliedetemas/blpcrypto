@@ -4,6 +4,7 @@ layout: page
 title: Na Mídia
 ---
 
+| [Genial: **Entrevista do gestor Glauco Cavalcanti**](https://youtu.be/pthPSUOD-rM) |
 | [Empiricus: **Entrevista Crypto Alert**](https://vimeo.com/empiricus/review/302353131/80d86c8389) |
 | [ISTOÉ Dinheiro: **Bitcoin para todos**](https://www.istoedinheiro.com.br/bitcoin-para-todos/#.W-4VGEU8w8I.whatsapp) |
 | [Criptomoedas Fácil: **Genial Investimentos lança primeiro fundo de criptoativos do Brasil**](https://www.criptomoedasfacil.com/genial-investimentos-lanca-primeiro-fundo-de-criptoativos-do-brasil/) |
