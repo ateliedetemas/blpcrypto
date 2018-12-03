@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-title: BLP CryptoAtivos FIM
+title: BLP CriptoAtivos FIM
 permalink: "/fundos/ativos-fim/"
 ---
 
@@ -21,7 +21,7 @@ Este fundo é direcionado para investidores de varejo.
 - **Taxa de Administração** - 1,50% a.a.
 - **Taxa de Performance** - 20% do que exceder o CDI
 - **Administrador** - Brasil Plural
-- **Distribuidor** - Genial Investimentos
+- **Distribuidor** - Genial Investimentos e Órama
 - **Gestora** - BLP Gestora de Recursos LTDA
 - **Auditor** - Crowe Horwath
 - **Legal** - Freitas Leite
