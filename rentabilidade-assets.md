@@ -5,6 +5,15 @@ title: "Cota & Rentabilidade: BLP CryptoAssets FIM"
 permalink: "rentabilidade/assets-fim/"
 ---
 
+## 2019
+
+Período | Fundo | CDI | Bitcoin (R$)
+---|---|---|---
+**jan/18** | -15,47% | 0,52% | -12,93%
+**Ano**  | **-15,47%** | **0,52%** | **-12,93%**
+
+## 2018
+
 Período | Fundo | CDI | Bitcoin (R$)
 ---|---|---|---
 **dez/18** | -3,23% |  0,49% |  -6,60%
