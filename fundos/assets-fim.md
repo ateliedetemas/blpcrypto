@@ -2,7 +2,6 @@
 lang: pt
 layout: page
 title: BLP CryptoAssets FIM
-permalink: "/fundos/assets-fim/"
 ---
 
 Lançado em primeiro de Janeiro de 2018 o BLP Crypto Assets FIM – Investimento no Exterior é o primeiro fundo de ativos digitais do Brasil.
