@@ -21,7 +21,7 @@ Este fundo é direcionado para investidores profissionais.
 - **Taxa de Performance** – 20% do que exceder o CDI
 - **Administrador** – Planner
 - **Gestora** - BLP Gestora de Recursos LTDA
-- **Auditor** – Crowe Horwath
+- **Auditor** – UHY Bendoraytes & Cia
 - **Legal** – Freitas Leite
 
 [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-assets-fim.pdf' }})
