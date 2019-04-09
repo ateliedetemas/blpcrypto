@@ -22,7 +22,7 @@ Este fundo é direcionado para investidores de varejo.
 - **Administrador** - Brasil Plural
 - **Distribuidor** - Genial Investimentos e Órama
 - **Gestora** - BLP Gestora de Recursos LTDA
-- **Auditor** - Crowe Horwath
+- **Auditor** - UHY Bendoraytes & Cia
 - **Legal** - Freitas Leite
 
 [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-ativos-fim.pdf' }})
