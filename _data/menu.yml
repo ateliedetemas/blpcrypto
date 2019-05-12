@@ -1,15 +1,17 @@
 - lang: en
   items:
-    - title: Funds
-      url: "/english/funds/"
-    - title: Tech Corner
-      url: "/english/tech-corner/"
+    - title: Fund
+      url: "/en/funds/"
+    - title: Performance
+      url: "/en/performance/"
+    - title: Reports
+      url: "/en/reports/"
     - title: Team
-      url: "/english/team/"
-    - title: Terms
-      url: "/english/terms/"
+      url: "/en/team/"
+    - title: Tech Corner
+      url: "/en/tech-corner/"
     - title: Contact
-      url: "/english/contact/"
+      url: "/en/contact/"
 
 - lang: pt
   items:
@@ -20,6 +22,8 @@
           url: "/fundos/assets-fim/"
         - title: BLP CryptoAtivos FIM
           url: "/fundos/ativos-fim/"
+        - title: Genesis Block Fund Ltd.
+          url: "/fundos/genesis/"
     - title: Cotas
       url: "/rentabilidade/"
     - title: Relatórios

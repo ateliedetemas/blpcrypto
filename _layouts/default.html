@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: 'pt' }}">
   {% include head.html %}
 
-  <body class="{{ page.url | slugify | default: 'home' }}">
+  <body class="{{ page.slug | default: page.url | slugify }}">
 
     <div id="site">
       {% include header.html %}

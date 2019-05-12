@@ -1,6 +1,7 @@
 ---
 lang: "pt"
 layout: default
+slug: "home"
 ---
 
 # BLP Crypto

@@ -1,6 +1,6 @@
 <header id="masthead" class="site-header">
-  {%- unless page.url == '/' -%}
-  <a class="site-title" href="{{ '/' | absolute_url }}">Home</a>
+  {%- unless page.url == '/' or page.url == "/en/" -%}
+  <a class="site-title" href="{% if page.lang == "en" %}{{ '/en/'| absolute_url }}{% else %}{{ '/' | absolute_url }}{% endif  %}">Home</a>
   {%- endunless -%}
 
   <input id="menu-toggle" type="checkbox" />
