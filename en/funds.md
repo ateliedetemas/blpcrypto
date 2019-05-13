@@ -14,7 +14,7 @@ Most of its assets are in the larger crypto assets by market capitalization and 
 - **Redemption:** Monthly with 10 business days pre-notice and payment 5 business days after NAV
 - **Reporting:** Monthly NAV, year-end audit
 - **Administration Fee:** 2% p.a. charged monthly on quota
-- **Performance Fee:** 20% over Libor with high water mark charged at year-end
+- **Performance Fee:** 20% over Libor with high water mark charged semi-annually
 - **Administrator:**  MG Stover
 - **Investment Manager:** BLP Asset Management
 - **Auditor:** Cohen & Co
