@@ -21,4 +21,4 @@ Most of its assets are in the larger crypto assets by market capitalization and 
 - **Legal:** Walkers Global and Freitas Leite
 
 
-[Offering Memorandum]({{ '../blpcrypto/assets/documents/OfferingMemorandum.pdf' | absolute_url }})
+[Offering Memorandum]({{ '/assets/documents/OfferingMemorandum.pdf' | absolute_url }})
