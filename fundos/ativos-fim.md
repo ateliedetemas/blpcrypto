@@ -25,4 +25,4 @@ Este fundo é direcionado para investidores de varejo.
 - **Auditor** - UHY Bendoraytes & Cia
 - **Legal** - Freitas Leite
 
-[**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-ativos-fim.pdf' }})
+[**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcriptoativos-fim.pdf' }})
