@@ -18,9 +18,9 @@
     - title: Fundos
       url: "/fundos/"
       items:
-        - title: BLP CryptoAssets FIM
+        - title: BLP Crypto Assets FIM
           url: "/fundos/assets-fim/"
-        - title: BLP CryptoAtivos FIM
+        - title: BLP Cryptoativos FIM
           url: "/fundos/ativos-fim/"
         - title: Genesis Block Fund Ltd.
           url: "/fundos/genesis/"
