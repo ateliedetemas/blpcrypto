@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-title: "Cota & Rentabilidade: BLP CryptoAssets FIM"
+title: "Cota & Rentabilidade: BLP Crypto Assets FIM"
 ---
 
 ## 2019
