@@ -4,6 +4,7 @@ layout: page
 title: Na Mídia
 ---
 
+| [ValorInveste: **Conversa com os gestores**](https://valorinveste.globo.com/mercados/cripto/noticia/2019/05/23/primeiro-fundo-de-criptomoedas-do-brasil-sai-da-cratera-projeta-disparada-e-exige-sangue-frio.ghtml) |
 | [Genial: **Entrevista do gestor Glauco Cavalcanti**](https://youtu.be/pthPSUOD-rM) |
 | [Empiricus: **Entrevista Crypto Alert**](https://vimeo.com/empiricus/review/302353131/80d86c8389) |
 | [ISTOÉ Dinheiro: **Bitcoin para todos**](https://www.istoedinheiro.com.br/bitcoin-para-todos/#.W-4VGEU8w8I.whatsapp) |
