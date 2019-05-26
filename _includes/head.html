@@ -5,4 +5,14 @@
   <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | normalize_whitespace | truncate: 160 | default: site.description }}" />
   <meta name="google-site-verification" content="4gEXkSQnEh4O7SoBHYPdg9KGg3CPfyBBrz86RxGxBnc" />
   <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140681041-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'UA-140681041-1');
+  </script>
 </head>
