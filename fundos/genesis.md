@@ -19,4 +19,4 @@ Lançado em 1 de Janeiro de 2018, o fundo Genesis Block tem como objetivo invest
 - **Auditor:** Cohen & Co
 - **Legal:** Walkers Global e Freitas Leite
 
-**Regulamento**
+[Regulamento]({{ '/assets/documents/OfferingMemorandum.pdf' | absolute_url }})
