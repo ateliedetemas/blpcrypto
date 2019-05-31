@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-title: BLP CriptoAtivos FIM
+title: BLP Criptoativos FIM
 ---
 
 Lançado em primeiro de Novembro de 2018 o BLP CriptoAtivos FIM - Investimento no Exterior é o primeiro fundo de ativos digitais do Brasil focado para o varejo.
