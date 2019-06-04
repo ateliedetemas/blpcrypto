@@ -6,6 +6,7 @@
   <meta name="google-site-verification" content="4gEXkSQnEh4O7SoBHYPdg9KGg3CPfyBBrz86RxGxBnc" />
   <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
   
+  {%- if jekyll.environment == "production" -%}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140681041-1"></script>
   <script>
@@ -15,4 +16,5 @@
   
     gtag('config', 'UA-140681041-1');
   </script>
+  {%- endif -%}
 </head>
