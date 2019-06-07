@@ -24,6 +24,6 @@ Este fundo é direcionado para investidores profissionais.
 - **Auditor** – UHY Bendoraytes & Cia
 - **Legal** – Freitas Leite
 
-[**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-assets-fim.pdf' }})
+- [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-assets-fim.pdf' }})
 
-[**Lâmina do fundo**]({{ '/assets/documents/LCYA0519.pdf' }})
+- [**Lâmina do fundo**]({{ '/assets/documents/LCYA0519.pdf' }})
