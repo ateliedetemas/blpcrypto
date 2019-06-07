@@ -25,4 +25,5 @@ Este fundo é direcionado para investidores profissionais.
 - **Legal** – Freitas Leite
 
 [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-assets-fim.pdf' }})
+
 [**Lâmina do fundo**]({{ '/assets/documents/LCYA0519.pdf' }})
