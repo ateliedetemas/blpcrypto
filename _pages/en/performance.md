@@ -2,6 +2,7 @@
 lang: "en"
 layout: "page"
 title: Performance
+permalink: "/en/performance/"
 ---
 
 ## 2019

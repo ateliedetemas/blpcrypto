@@ -2,12 +2,13 @@
 layout: page
 lang: "en"
 title: Genesis Block Fund Ltd.
+permalink: "/en/funds/"
 ---
 
 Launched in January 2018, Genesis Block Fund Ltd. is a diversified long-only crypto fund based in the Cayman Islands.
- 
+
 Most of its assets are in the larger crypto assets by market capitalization and it has up to 20% invested in smaller tokens with an objective to outperform the Bloomberg Galaxy Crypto Index (BGCI).
- 
+
 - **Category:** Open-End Investment fund
 - **Minimum Subscription:** US$100,000.00
 - **Subscription:** 10 business days prior to month-end for NAV of last business day of the month

@@ -2,6 +2,7 @@
 lang: en
 layout: page
 title: Team
+permalink: "/en/team/"
 ---
 
 **Alexandre Vasarhelyi, CFA**

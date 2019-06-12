@@ -9,6 +9,11 @@ baseurl: ""
 # Build settings
 permalink: pretty
 
+collections:
+  pages:
+    output: true
+    permalink: "/:name/"
+
 markdown: kramdown
 plugins:
   - jekyll-sitemap

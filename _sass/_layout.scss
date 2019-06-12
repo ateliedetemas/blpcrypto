@@ -59,7 +59,7 @@
       letter-spacing: 0.3em;
 
       &:not(:first-child) {
-        margin-left: $spacing-unit;
+        margin-left: $spacing-unit / 2;
       }
 
       @include on-palm {
@@ -144,6 +144,22 @@
         display: block;
         margin-top: $spacing-unit / 2;
         margin-bottom: $spacing-unit / 2;
+      }
+    }
+
+    .partners-list {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+      justify-content: center;
+
+      li {
+        display: inline-block;
+        margin: $spacing-unit;
+
+        img {
+          max-width: 150px;
+        }
       }
     }
   }

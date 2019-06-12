@@ -2,6 +2,7 @@
 lang: en
 layout: page
 title: Tech Corner
+permalink: "/en/tech-corner/"
 ---
 
 [Bitcoin Improvement Proposals (BIPs)]({{ "/assets/documents/tech-corner/2019/05.pdf" }}) |  

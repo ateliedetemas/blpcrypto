@@ -2,6 +2,7 @@
 lang: "en"
 layout: page
 title: Monthly Reports
+permalink: "/en/reports/"
 ---
 
 ## 2019
