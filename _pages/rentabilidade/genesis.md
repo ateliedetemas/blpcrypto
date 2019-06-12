@@ -2,6 +2,7 @@
 lang: pt
 layout: page
 title: "Cotas & Rentabilidade: Genesis Block Fund Ltd."
+permalink: "/rentabilidade/genesis/"
 ---
 
 ## 2019

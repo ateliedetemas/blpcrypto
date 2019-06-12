@@ -2,6 +2,7 @@
 lang: pt
 layout: page
 title: Genesis Block Fund Ltd.
+permalink: "/fundos/genesis/"
 ---
 
 Lançado em 1 de Janeiro de 2018, o fundo Genesis Block tem como objetivo investir em uma carteira diversificada de ativos digitais com ênfase nos maiores protocolos e superar o Indice de Criptos da Bloomberg Galaxy (BGCI).
@@ -9,7 +10,7 @@ Lançado em 1 de Janeiro de 2018, o fundo Genesis Block tem como objetivo invest
 - **Categoria:** Open-ended investment fund
 - **Publico Alvo:**  Investidor Profissional
 - **Subscrição Mínima:** US$100.000,00
-- **Subscrição:** 10 dias úteis antes do fechamento do mês 
+- **Subscrição:** 10 dias úteis antes do fechamento do mês
 - **Resgate:**  10 dias antes do fechamento do mês e pagamento até 20 dias úteis após fechamento do mês
 - **Cota:** Mensal no ultimo dia do mês
 - **Taxa de Administração:** 2% a.a.

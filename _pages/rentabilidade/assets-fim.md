@@ -2,6 +2,7 @@
 lang: pt
 layout: page
 title: "Cota & Rentabilidade: BLP Crypto Assets FIM"
+permalink: "/rentabilidade/assets-fim/"
 ---
 
 ## 2019
