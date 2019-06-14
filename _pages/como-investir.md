@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: pt
-title: Como Investir
+title: Invista agora
 ---
 
 Conheça nossos parceiros:
