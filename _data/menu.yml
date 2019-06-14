@@ -26,8 +26,6 @@
           url: "/fundos/genesis/"
     - title: Cotas
       url: "/rentabilidade/"
-    - title: Como Investir
-      url: "/como-investir/"
     - title: Relatórios
       url: "/relatorios/"
     - title: Equipe
@@ -38,5 +36,7 @@
       url: "/tech-corner/"
     - title: Na Mídia
       url: "/na-midia/"
+    - title: Investir
+      url: "/como-investir/"
     - title: Contato
       url: "/contato/"
