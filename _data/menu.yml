@@ -38,5 +38,6 @@
       url: "/na-midia/"
     - title: Investir
       url: "/como-investir/"
+      label_font_color: "255, 255, 45"
     - title: Contato
       url: "/contato/"
