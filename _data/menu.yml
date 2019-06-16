@@ -30,14 +30,14 @@
       url: "/relatorios/"
     - title: Equipe
       url: "/equipe/"
-    - title: Manuais & Políticas
-      url: "/regulamento/"
     - title: Tech Corner
       url: "/tech-corner/"
     - title: Na Mídia
       url: "/na-midia/"
     - title: Investir
-      url: "/como-investir/"
       label_font_color: "255, 255, 45"
+      url: "/como-investir/"
     - title: Contato
       url: "/contato/"
+    - title: Manuais & Políticas
+      url: "/regulamento/"
