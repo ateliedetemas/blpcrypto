@@ -13,5 +13,17 @@
 
       {% include footer.html %}
     </div>
+
+    {%- if page.url == '/' or page.url contains "fundos" -%}
+      {%- include dialog.html -%}
+
+      <script type="text/javascript" src="{{ '/assets/scripts/dialog-polyfill.js' | relative_url }}"></script>
+      
+      <script type="text/javascript">
+        var dialog = document.querySelector('dialog');
+        dialogPolyfill.registerDialog(dialog);
+        dialog.showModal();
+      </script>
+    {%- endif -%}
   </body>
 </html>

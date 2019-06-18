@@ -173,7 +173,7 @@ button {
   font-weight: 700;
   background: inherit;
   padding: $spacing-unit / 4 $spacing-unit / 2;
-  transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
 
   @include on-palm {
     width: 100%;
@@ -186,4 +186,46 @@ button {
     border-color: $color-accent;
     cursor: pointer;
   }
+}
+
+dialog {
+  @include relative-font-size(0.85);
+  text-align: center;
+  height: auto;
+  padding: $spacing-unit $spacing-unit / 2;
+
+  a {
+    color: $color-accent;
+  }
+
+  form {
+    div {
+      display: flex;
+      flex-flow: row nowrap;
+
+      button {
+        flex: 1 0 auto;
+        color: $color-accent;
+        border-color: $color-accent;
+
+        &:hover,
+        &:focus {
+          background-color: $color-accent;
+          color: $color-details;
+        }
+
+        @include on-palm {
+          width: auto;
+        }
+      }
+    }
+  }
+}
+
+dialog::backdrop {
+  background-color: rgba(0, 0, 0, .75);
+}
+
+dialog + .backdrop {
+  background-color: rgba(0, 0, 0, .75);
 }
