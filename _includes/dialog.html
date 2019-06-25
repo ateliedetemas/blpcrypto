@@ -10,8 +10,10 @@
 
   <form method="dialog">
     <div>
+      {%- if page.url == "/" -%}
       <button type="reset">Discordo</button>
       <button type="submit">Concordo</button>
+      {%- endif -%}
     </div>
   </form>
   </dialog>
