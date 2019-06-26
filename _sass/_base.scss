@@ -189,10 +189,19 @@ button {
 }
 
 dialog {
-  @include relative-font-size(0.85);
+  @include relative-font-size(0.75);
   text-align: center;
   height: auto;
-  padding: $spacing-unit $spacing-unit / 2;
+  padding: $spacing-unit;
+  max-width: 800px;
+
+  @include on-palm {
+    padding: $spacing-unit $spacing-unit / 2;
+  }
+
+  > * {
+    max-width: none;
+  }
 
   a {
     color: $color-accent;

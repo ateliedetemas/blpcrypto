@@ -11,7 +11,7 @@
     {%- assign i = menu | map: "items" -%}
 
     {% for item in i[0] %}
-    <a {% if item.external %}href="{{ item.url }}" rel="external" target="_blank"{% else %}href="{{ item.url | relative_url }}"{% endif %}>{{ item.title }}</a>
+    <a {% if item.external %}href="{{ item.url }}" rel="external" target="_blank"{% else %}href="{{ item.url | relative_url }}"{% endif %} {% if item.glow %}class="glow"{% endif %}>{{ item.title }}</a>
     {% endfor %}
   </nav>
 </header>

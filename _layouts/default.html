@@ -17,12 +17,28 @@
     {%- if page.url == '/' or page.url contains "genesis" -%}
       {%- include dialog.html -%}
 
+      <script type="text/javascript" src="{{ '/assets/scripts/jquery.js' | relative_url }}"></script>
+      <script type="text/javascript" src="{{ '/assets/scripts/jquery.cookie.js' | relative_url }}"></script>
       <script type="text/javascript" src="{{ '/assets/scripts/dialog-polyfill.js' | relative_url }}"></script>
-      
+
       <script type="text/javascript">
-        var dialog = document.querySelector('dialog');
-        dialogPolyfill.registerDialog(dialog);
-        dialog.showModal();
+        var page_path;
+
+        if( window.location.pathname == "/" ) {
+          page_path = "home";
+        } else {
+          page_path = window.location.pathname;
+        }
+
+        if( $.cookie(page_path) == undefined ) {
+          var dialog = document.querySelector('dialog');
+          dialogPolyfill.registerDialog(dialog);
+          dialog.showModal();
+
+          $.cookie(page_path, 'true', {
+            expires: 1
+          });
+        }
       </script>
     {%- endif -%}
   </body>

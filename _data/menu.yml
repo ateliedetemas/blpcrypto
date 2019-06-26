@@ -35,7 +35,7 @@
     - title: Na Mídia
       url: "/na-midia/"
     - title: Investir
-      label_font_color: "255, 255, 45"
+      glow: true
       url: "/como-investir/"
     - title: Contato
       url: "/contato/"
