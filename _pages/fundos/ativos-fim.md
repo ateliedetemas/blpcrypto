@@ -27,5 +27,5 @@ Este fundo é direcionado para investidores de varejo.
 - **Legal** - Freitas Leite
 
 - [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcriptoativos-fim.pdf' }})
-- [**Lâmina do Fundo**]({{ '/assets/documents/LCA0519.pdf' }})
+- [**Lâmina do Fundo**]({{ '/assets/documents/LCA0619.pdf' }})
 - [**Demonstrações financeiras auditadas**]({{ '/assets/documents/DemFinAudit.PDF' }})
