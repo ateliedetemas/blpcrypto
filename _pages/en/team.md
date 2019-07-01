@@ -15,4 +15,4 @@ Partner at BLP Asset Mgt. responsible for the Crypto fund. He became involved wi
 
 **Glauco Bronz Cavalcanti**
 
-Founding partners of Blackpartners Group 2010. He is CIO/Portfolio Manager at BLP Asset Mgt. Prior to BLP Asset Mgt, he was an MD and CIO of Credit Suisse Asset Mgt. Brazil from 1998 to 2010.  He started his career at Banco Garantia  in 1989 and worked both in IT and trading desks until 1998. In 1998 he was one of the founding partners of Netrade, the first Home Broker in Brazil. Glauco has a Computer Science degree from PUC-RJ.
+Founding partner of Blackpartners Group 2010. He is CIO/Portfolio Manager at BLP Asset Mgt. Prior to BLP Asset Mgt, he was an MD and CIO of Credit Suisse Asset Mgt. Brazil from 1998 to 2010.  He started his career at Banco Garantia  in 1989 and worked both in IT and trading desks until 1998. In 1998 he was one of the founding partners of Netrade, the first Home Broker in Brazil. Glauco has a Computer Science degree from PUC-RJ.
