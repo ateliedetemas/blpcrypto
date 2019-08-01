@@ -6,6 +6,7 @@ title: Relatórios
 
 ## 2019
 
+[Julho 2019]({{ '/assets/documents/relatorios/2019/07.pdf' | absolute_url }}) | 
 [Maio 2019]({{ '/assets/documents/relatorios/2019/05.pdf' | absolute_url }}) | [Junho 2019]({{ '/assets/documents/relatorios/2019/06.pdf' | absolute_url }})  
 [Março 2019]({{ '/assets/documents/relatorios/2019/03.pdf' | absolute_url }}) | [Abril 2019]({{ '/assets/documents/relatorios/2019/04.pdf' | absolute_url }})
 [Janeiro 2019]({{ "/assets/documents/relatorios/2019/01.pdf" | absolute_url }}) | [Fevereiro 2019]({{ "/assets/documents/relatorios/2019/02.pdf" | absolute_url }})
