@@ -9,7 +9,7 @@ permalink: "/rentabilidade/assets-fim/"
 
 Período | Fundo | CDI
 ---|---|---
-**jun/19** | -14,60% | 0,57%
+**jul/19** | -14,60% | 0,57%
 **jun/19** | 8,69% | 0,47%
 **mai/19** | 52,76% | 0,54%
 **abr/19** | 20,93% | 0,52%
