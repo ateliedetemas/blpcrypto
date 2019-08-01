@@ -6,6 +6,7 @@ permalink: "/en/reports/"
 ---
 
 ## 2019
+
 [July 2019]({{ '/assets/documents/relatorios/2019/07.pdf' | absolute_url }})  | [August 2019]({{ '/assets/documents/relatorios/2019/08.pdf' | absolute_url }})
 [May 2019]({{ '/assets/documents/relatorios/2019/05.pdf' | absolute_url }})  | [June 2019]({{ '/assets/documents/relatorios/2019/06.pdf' | absolute_url }})
 [March 2019]({{ '/assets/documents/relatorios/2019/03.pdf' | absolute_url }})  | [April 2019]({{ '/assets/documents/relatorios/2019/04.pdf' | absolute_url }})
