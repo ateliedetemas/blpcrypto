@@ -6,7 +6,7 @@ title: Na Mídia
 | [Valor.com: **Moedas digitais, como Libra do Facebook, ameaçam status do sistema financeira**](http://www.valor.com.br/cultura/6355697/moedas-digitais-como-libra-do-facebook-ameacam-status-do-sistema-financeiro)
 | [Cointelegraph: **Brasileira BLP criou fundo com Bitcoin e criptomoedas regularizado pela CVM e destinado a investidores do varejo**](https://br.cointelegraph.com/news/brazilian-blp-created-cvm-regularized-bitcoin-and-cryptocurrency-investment-fund-for-retail-investors)
 | [Genial Investimentos: **Conheça o primeiro fundo de Criptomoedas do Brasil!**](https://www.youtube.com/watch?v=Fqo3gsqnnis&feature=youtu.be)
-| [seudinheiro.com: **os sete meses do primeiro fundo de criptoativos brasileiro**](https://www.seudinheiro.com/os-sete-meses-do-primeiro-fundo-de-criptoativos-brasileiro/)
+| [seudinheiro.com: **Os sete meses do primeiro fundo de criptoativos brasileiro**](https://www.seudinheiro.com/os-sete-meses-do-primeiro-fundo-de-criptoativos-brasileiro/)
 | [ValorInveste: **Conversa com os gestores do primeiro fundo de criptomoedas do Brasil**](https://valorinveste.globo.com/mercados/cripto/noticia/2019/05/23/primeiro-fundo-de-criptomoedas-do-brasil-sai-da-cratera-projeta-disparada-e-exige-sangue-frio.ghtml) |
 | [O assunto é dinheiro - Luiz Gustavo Medina: **Primeiro fundo de criptomoedas do Brasil pode ser 'boa porta de entrada'**](https://podcasts.apple.com/br/podcast/o-assunto-%C3%A9-dinheiro-luiz-gustavo-medina/id1024068395?l=en&i=1000439162762) |
 | [Genial Investimentos: **Entrevista do gestor Glauco Cavalcanti**](https://youtu.be/pthPSUOD-rM) |
