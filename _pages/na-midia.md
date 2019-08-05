@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+| [Cointelegraph: **Brasileira BLP criou fundo com Bitcoin e criptomoedas regularizado pela CVM e destinado a investidores do varejo**](https://br.cointelegraph.com/news/brazilian-blp-created-cvm-regularized-bitcoin-and-cryptocurrency-investment-fund-for-retail-investors)
 | [Genial Investimentos: **Conheça o primeiro fundo de Criptomoedas do Brasil!**](https://www.youtube.com/watch?v=Fqo3gsqnnis&feature=youtu.be)
 | [seudinheiro.com: **os sete meses do primeiro fundo de criptoativos brasileiro**](https://www.seudinheiro.com/os-sete-meses-do-primeiro-fundo-de-criptoativos-brasileiro/)
 | [ValorInveste: **Conversa com os gestores do primeiro fundo de criptomoedas do Brasil**](https://valorinveste.globo.com/mercados/cripto/noticia/2019/05/23/primeiro-fundo-de-criptomoedas-do-brasil-sai-da-cratera-projeta-disparada-e-exige-sangue-frio.ghtml) |
