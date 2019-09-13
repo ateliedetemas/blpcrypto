@@ -20,6 +20,7 @@ Most of its assets are in the larger crypto assets by market capitalization and 
 - **Investment Manager:** BLP Asset Management
 - **Auditor:** Cohen & Co
 - **Legal:** Walkers Global and Freitas Leite
+- **Custodian:** Coinbase Custody
 
 
 [Offering Memorandum]({{ '/assets/documents/OfferingMemorandum.pdf' | absolute_url }})
