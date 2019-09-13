@@ -19,5 +19,6 @@ Lançado em 1 de Janeiro de 2018, o fundo Genesis Block tem como objetivo invest
 - **Gestora:** BLP Gestora de Recursos LTDA
 - **Auditor:** Cohen & Co
 - **Legal:** Walkers Global e Freitas Leite
+- **Custodiante:** Coinbase Custody
 
 [Regulamento]({{ '/assets/documents/OfferingMemorandum.pdf' | absolute_url }})
