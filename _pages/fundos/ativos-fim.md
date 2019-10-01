@@ -15,9 +15,10 @@ Este fundo é direcionado para investidores de varejo.
 
 - **Categoria** - Fundo de Investimento Multimercado (FIM)
 - **Subscrição Mínima** - R$1.000,00
-- **Subscrição** - sempre até o dia 27 do mês ou próximo dia útil caso dia 27 não seja um dia útil
-- **Resgate** - sempre até o dia 20 do mês ou próximo dia útil caso dia 20 não seja um dia útil
-- **Cota** - Mensal no primeiro dia útil do mês
+- **Subscrição** - até o último dia útil do mês
+- **Resgate** - até o último dia útil do mês
+- **Cotização** - mensal, no último dia útil do mês
+- **Pagamento** - segundo dia útil do mês
 - **Taxa de Administração** - 1,50% a.a.
 - **Taxa de Performance** - 20% do que exceder o CDI
 - **Administrador** - Brasil Plural
