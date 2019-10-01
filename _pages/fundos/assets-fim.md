@@ -15,9 +15,10 @@ Este fundo é direcionado para investidores profissionais.
 
 - **Categoria** – Fundo de Investimento Multimercado (FIM)
 - **Subscrição Mínima** – R$100.000,00
-- **Subscrição** – 10 dias úteis antes do fechamento do mês.
-- **Resgate** – Pedido 10 dias antes do fechamento do mês e pagamento até 20 dias úteis após fechamento do mês
-- **Cota** – Mensal no primeiro dia útil do mês
+- **Subscrição** – até o último dia útil do mês
+- **Resgate** – 15 dias antes do final do mês
+- **Cotização** –  mensal no último dia útil do mês
+- **Pagamento** –   até o dia 25 do mês seguinte
 - **Taxa de Administração** – 2% a.a
 - **Taxa de Performance** – 20% do que exceder o CDI
 - **Administrador** – Planner
