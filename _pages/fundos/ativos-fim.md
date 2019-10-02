@@ -22,7 +22,7 @@ Este fundo é direcionado para investidores de varejo.
 - **Taxa de Administração** - 1,50% a.a.
 - **Taxa de Performance** - 20% do que exceder o CDI
 - **Administrador** - Brasil Plural
-- **Distribuidor** - Genial Investimentos e Órama
+- **Distribuidor** - Genial Investimentos, Órama e Socopa Invest
 - **Gestora** - BLP Gestora de Recursos LTDA
 - **Auditor** - UHY Bendoraytes & Cia
 - **Legal** - Freitas Leite
