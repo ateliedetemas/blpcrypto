@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+| [linkedin: **Bitcoin: quem se importa?**](https://www.linkedin.com/pulse/bitcoin-quem-se-importa-nicholas-gon%25C3%25A7alves-sacchi/)
 | [Valor.com: **Moedas digitais, como Libra do Facebook, ameaçam status do sistema financeira**](http://www.valor.com.br/cultura/6355697/moedas-digitais-como-libra-do-facebook-ameacam-status-do-sistema-financeiro)
 | [Cointelegraph: **Brasileira BLP criou fundo com Bitcoin e criptomoedas regularizado pela CVM e destinado a investidores do varejo**](https://br.cointelegraph.com/news/brazilian-blp-created-cvm-regularized-bitcoin-and-cryptocurrency-investment-fund-for-retail-investors)
 | [Genial Investimentos: **Conheça o primeiro fundo de Criptomoedas do Brasil!**](https://www.youtube.com/watch?v=Fqo3gsqnnis&feature=youtu.be)
