@@ -24,7 +24,7 @@ Este fundo é direcionado para investidores profissionais.
 - **Administrador** – Planner
 - **Gestora** - BLP Gestora de Recursos LTDA
 - **Auditor** – UHY Bendoraytes & Cia
-- **Legal** – Freitas Leite
+- **Legal** – Madrona
 
 - [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-assets-fim.pdf' }})
 - [**Lâmina do fundo**]({{ '/assets/documents/LCYA0919.pdf' }})
