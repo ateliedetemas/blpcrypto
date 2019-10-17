@@ -25,7 +25,7 @@ Este fundo é direcionado para investidores de varejo.
 - **Distribuidor** - Genial Investimentos, Órama e Socopa Invest
 - **Gestora** - BLP Gestora de Recursos LTDA
 - **Auditor** - UHY Bendoraytes & Cia
-- **Legal** - Freitas Leite
+- **Legal** - Madrona
 
 - [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcriptoativos-fim.pdf' }})
 - [**Lâmina do Fundo**]({{ '/assets/documents/LCA0919.pdf' }})
