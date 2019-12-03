@@ -4,6 +4,7 @@ layout: page
 title: Tech Corner
 permalink: "/en/tech-corner/"
 ---
+[MPC (Multi-Party Computation)]({{ "/assets/documents/tech-corner/2019/11.pdf" }}) |   
 [Full Nodes]({{ "/assets/documents/tech-corner/2019/09.pdf" }}) |  [DeFi]({{ "/assets/documents/tech-corner/2019/10.pdf" }}) | 
 [MimbleWimble]({{ "/assets/documents/tech-corner/2019/07.pdf" }}) |  [Self Custody vs Institutional Custody]({{ "/assets/documents/tech-corner/2019/08.pdf" }}) 
 [Bitcoin Improvement Proposals (BIPs)]({{ "/assets/documents/tech-corner/2019/05.pdf" }}) |  [CEX vs. DEX]({{ "/assets/documents/tech-corner/2019/06.pdf" }}) 
