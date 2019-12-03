@@ -7,6 +7,7 @@ permalink: "/en/reports/"
 
 ## 2019
 
+[November 2019]({{ '/assets/documents/relatorios/2019/11e.pdf' | absolute_url }})  |  
 [September 2019]({{ '/assets/documents/relatorios/2019/09e.pdf' | absolute_url }})  | [October 2019]({{ '/assets/documents/relatorios/2019/10e.pdf' | absolute_url }})   
 [July 2019]({{ '/assets/documents/relatorios/2019/07.pdf' | absolute_url }})  |   [August 2019]({{ '/assets/documents/relatorios/2019/08e.pdf' | absolute_url }})
 [May 2019]({{ '/assets/documents/relatorios/2019/05.pdf' | absolute_url }})  | [June 2019]({{ '/assets/documents/relatorios/2019/06.pdf' | absolute_url }})
