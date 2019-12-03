@@ -25,7 +25,7 @@ Este fundo é direcionado para investidores de varejo.
 - **Distribuidor** - Genial Inv., Órama, Daycoval Inv., Uniletra Inv. e Necton
 - **Gestora** - BLP Gestora de Recursos LTDA
 - **Auditor** - UHY Bendoraytes & Cia
-- **Legal** - Madrona
+- **Legal** - Madrona 
 
 - [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcriptoativos-fim.pdf' }})
 - [**Lâmina do Fundo**]({{ '/assets/documents/LCA1019.pdf' }})
