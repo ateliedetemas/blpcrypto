@@ -12,6 +12,7 @@ title: Invista agora
 - [![Órama](/assets/images/partners/orama.png)](https://www.orama.com.br/investimentos/lista-fundos-de-investimento)
 - [![Uniletra](/assets/images/partners/uniletrx.png)](https://www.uniletra.com.br/comece-a-investir)
 - [![Necton](/assets/images/partners/necton.png)](https://www.necton.com.br/fundos-de-investimento)
+- [![Daycoval](/assets/images/partners/daycoval.png)](https://www.daycoval.com.br/para-voce/investimentos-pessoa-fisica/fundosterceiros)
 
 
 
