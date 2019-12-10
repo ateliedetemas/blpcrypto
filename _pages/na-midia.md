@@ -3,7 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
-| [ValorInveste: **Ouro, bitcoin, boi, maconha: veja quanto renderam no mês e em 2019 os fundos 'diferentões'**](https://valorinveste.globo.com/produtos/fundos/noticia/2019/12/09/ouro-bitcoin-boi-maconha-veja-quanto-renderam-no-mes-e-em-2019-os-fundos-diferentoes.ghtml)
+| [ValorInveste: **Ouro, bitcoin, boi, maconha: veja quanto renderam no mês e em 2019 os fundos -diferentões-**](https://valorinveste.globo.com/produtos/fundos/noticia/2019/12/09/ouro-bitcoin-boi-maconha-veja-quanto-renderam-no-mes-e-em-2019-os-fundos-diferentoes.ghtml)
 | [ValorInveste: **Veja como investir em criptomoedas e reduzir o risco de golpes e perdas**](https://valorinveste.globo.com/mercados/cripto/noticia/2019/10/25/veja-como-investir-em-criptomoedas-e-reduzir-o-risco-de-golpes-e-perdas.ghtml)
 | [linkedin: **Bitcoin: quem se importa?**](https://www.linkedin.com/pulse/bitcoin-quem-se-importa-nicholas-gon%25C3%25A7alves-sacchi/)
 | [Valor.com: **Moedas digitais, como Libra do Facebook, ameaçam status do sistema financeira**](http://www.valor.com.br/cultura/6355697/moedas-digitais-como-libra-do-facebook-ameacam-status-do-sistema-financeiro)
