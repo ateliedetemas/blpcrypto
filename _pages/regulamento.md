@@ -21,3 +21,5 @@ Faça o download dos regulamentos da BLP Asset:
 [Código de Ética e Manual de Compliance]({{ '/assets/documents/CEMC2020.pdf' }})
 
 [Política de Certificação]({{ '/assets/documents/PC2020.pdf' }})
+
+[Política de Continuidade de Negócios]({{ '/assets/documents/PCN2020.pdf' }})
