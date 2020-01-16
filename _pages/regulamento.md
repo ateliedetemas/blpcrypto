@@ -17,3 +17,5 @@ Faça o download dos regulamentos da BLP Asset:
 [Política para gerenciamento de liquidez]({{ '/assets/documents/gerenciamento-liquidez.pdf' }})
 
 [Manual de precificação]({{ '/assets/documents/precificacao-23-11.pdf' }})
+
+[Código de Ética e Manual de Compliance]({{ '/assets/documents/CEMC2020.pdf' }})
