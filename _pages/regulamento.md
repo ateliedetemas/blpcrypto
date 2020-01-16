@@ -26,4 +26,4 @@ Faça o download dos regulamentos da BLP Asset:
 
 [Política de Rateio de Ordens]({{ '/assets/documents/PRO2020.pdf' }})
 
-[Política de Segurança Cibernética de Ordens]({{ '/assets/documents/PSC2020.pdf' }})
+[Política de Segurança Cibernética]({{ '/assets/documents/PSC2020.pdf' }})
