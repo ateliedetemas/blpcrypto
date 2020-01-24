@@ -5,7 +5,7 @@ title: Na Mídia
 ---
 |[MoneyTimes: **Axel Blikstad, CFA: o que nos levou a lançar o primeiro fundo de criptoativos no Brasil**](https://moneytimes.com.br/axel-blikstad-cfa-o-que-nos-levou-a-lancar-o-primeiro-fundo-de-criptoativos-no-brasil/) 
 |[Estadão: **Brasileiros criam um ‘Ibovespa’ das criptomoedas**](https://economia.estadao.com.br/noticias/geral,brasileiros-criam-um-ibovespa-das-criptomoedas,70003154197) 
-|[InfoMoey: **Fundos de criptomoedas têm aplicação mínima de R$ 500: saiba quando vale a pena investir**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-tem-aplicacao-minima-de-r-500-saiba-quando-vale-a-pena-investir/) 
+|[InfoMoney: **Fundos de criptomoedas têm aplicação mínima de R$ 500: saiba quando vale a pena investir**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-tem-aplicacao-minima-de-r-500-saiba-quando-vale-a-pena-investir/) 
 |[ValorInveste: **Criptomoedas e blockchain: um 2019 agitado e o que esperar para 2020**](https://valorinveste.globo.com/mercados/cripto/noticia/2020/01/07/criptomoedas-e-blockchain-um-2019-agitado-e-o-que-esperar-para-2020.ghtml) 
 |[seudinheiro.com: **Bitcoin é uma boa para 2020? Criptomoeda terá redução de emissões e preço pode subir mais**](https://www.seudinheiro.com/2020/economia/bitcoin-pode-ir-alem-em-2020-em-ano-movimentado-para-as-criptos/) 
 |[ValorInveste: **Ouro, bitcoin, boi, maconha: veja quanto renderam no mês e em 2019 os fundos -diferentões-**](https://valorinveste.globo.com/produtos/fundos/noticia/2019/12/09/ouro-bitcoin-boi-maconha-veja-quanto-renderam-no-mes-e-em-2019-os-fundos-diferentoes.ghtml) 
