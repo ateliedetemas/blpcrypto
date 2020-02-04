@@ -3,6 +3,9 @@ lang: pt
 layout: page
 title: Relatórios
 ---
+## 2020
+
+[Janeiro 2020]({{ '/assets/documents/relatorios/2020/01p.pdf' |
 
 ## 2019
 
