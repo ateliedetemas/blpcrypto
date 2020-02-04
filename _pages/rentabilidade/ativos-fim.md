@@ -4,6 +4,12 @@ layout: page
 title: "Cota & Rentabilidade: BLP Criptoativos FIM"
 permalink: "/rentabilidade/ativos-fim/"
 ---
+## 2020
+
+Período | Fundo | CDI
+---|---|---
+**jan/20** | 8,26% | 0,38%
+**Ano**  | **8,26%** | **0,38%**
 
 ## 2019
 
