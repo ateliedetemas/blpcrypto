@@ -4,6 +4,13 @@ layout: page
 title: "Cotas & Rentabilidade: Genesis Block Fund Ltd."
 permalink: "/rentabilidade/genesis/"
 ---
+## 2020
+
+| Mês    | Genesis | BGCI    |
+|--------|---------|---------|
+| **jan/20** | 33.90% | 40.26% |
+| **Ano**    | **33.90%**  | **40.26%**   |
+
 
 ## 2019
 
