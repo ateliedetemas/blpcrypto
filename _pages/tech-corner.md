@@ -3,7 +3,7 @@ lang: pt
 layout: page
 title: Tech Corner
 ---
-
+[Taproot BIP Proposal]({{ "/assets/documents/tech-corner/2020/01.pdf" }}) | 
 [MPC (Multi-Party Computation)]({{ "/assets/documents/tech-corner/2019/11.pdf" }}) |  [tBTC (Bitcoin on the Ethereum network)]({{ "/assets/documents/tech-corner/2019/12.pdf" }}) 
 [Full Nodes]({{ "/assets/documents/tech-corner/2019/09.pdf" }}) |  [Defi]({{ "/assets/documents/tech-corner/2019/10.pdf" }}) | 
 [MimbleWimble]({{ "/assets/documents/tech-corner/2019/07.pdf" }}) |  [Self Custody vs Institutional Custody]({{ "/assets/documents/tech-corner/2019/08.pdf" }}) 
