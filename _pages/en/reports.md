@@ -4,6 +4,9 @@ layout: page
 title: Monthly Reports
 permalink: "/en/reports/"
 ---
+## 2020
+
+[January 2020]({{ '/assets/documents/relatorios/2020/01e.pdf' | absolute_url }}) 
 
 ## 2019
 
