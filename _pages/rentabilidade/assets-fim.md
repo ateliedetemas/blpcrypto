@@ -4,6 +4,12 @@ layout: page
 title: "Cota & Rentabilidade: BLP Crypto Assets FIM"
 permalink: "/rentabilidade/assets-fim/"
 ---
+## 2020
+
+Período | Fundo | CDI
+---|---|---
+**jan/20** | 40,07% | 0,38%
+**Ano**  | **40,07%** | **0,38%**
 
 ## 2019
 
