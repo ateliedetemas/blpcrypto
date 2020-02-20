@@ -3,7 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
-[Youtube (Participação da BLP Asset): **2020 LAIC Credit Suisse: Transformation Arena - Blockchain: Strategies, challenges and perspectives**](https://www.youtube.com/watch?v=JkSh4UKe_Po&feature=youtu.be) 
+|[Youtube (Participação da BLP Asset): **2020 LAIC Credit Suisse: Transformation Arena - Blockchain: Strategies, challenges and perspectives**](https://www.youtube.com/watch?v=JkSh4UKe_Po&feature=youtu.be) 
 |[MoneyTimes: **Axel Blikstad, CFA: o que nos levou a lançar o primeiro fundo de criptoativos no Brasil**](https://moneytimes.com.br/axel-blikstad-cfa-o-que-nos-levou-a-lancar-o-primeiro-fundo-de-criptoativos-no-brasil/) 
 |[Estadão: **Brasileiros criam um ‘Ibovespa’ das criptomoedas**](https://economia.estadao.com.br/noticias/geral,brasileiros-criam-um-ibovespa-das-criptomoedas,70003154197) 
 |[InfoMoney: **Fundos de criptomoedas têm aplicação mínima de R$ 500: saiba quando vale a pena investir**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-tem-aplicacao-minima-de-r-500-saiba-quando-vale-a-pena-investir/) 
