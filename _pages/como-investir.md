@@ -3,8 +3,12 @@ layout: page
 lang: pt
 title: Invista agora
 ---
+### Abra ou acesse sua conta conosco
 
-### Varejo
+{:.partners-list}
+- [Acesse sua conta](https://www.genialinvestimentos.com.br/investimentos/fundos/lista-completa/)
+
+### Invista através de nossos parceiros (varejo)
 
 {:.partners-list}
 - [![Genial Investimentos](/assets/images/partners/genial.png)](https://www.genialinvestimentos.com.br/investimentos/fundos/lista-completa/)
@@ -15,7 +19,7 @@ title: Invista agora
 - [![Hub](/assets/images/partners/hub.png)](https://www.hubcapital.com.br/)
 
 
-### Investidor profissional
+### Invista através de nossos parceiros (investidor profissional)
 
 {:.partners-list}
 - [![Planner](/assets/images/partners/planner.png)](https://www.planner.com.br/abra-sua-conta/)
