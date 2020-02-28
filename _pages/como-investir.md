@@ -1,11 +1,9 @@
 ---
 layout: page
 lang: pt
-title: Invista agora
 
 ---
 ### Abra ou acesse sua conta conosco
-
 
 {:.partners-list}
 - [**Acesse sua conta**](https://blpgestao.orama.com.br/)
