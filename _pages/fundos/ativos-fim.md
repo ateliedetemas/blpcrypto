@@ -28,5 +28,5 @@ Este fundo é direcionado para investidores de varejo.
 - **Legal** - Madrona 
 
 - [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcriptoativos-fim.pdf' }})
-- [**Lâmina do Fundo**]({{ '/assets/documents/LCA0220.pdf' }})
+- [**Resumo do Fundo**]({{ '/assets/documents/LCA0220.pdf' }})
 - [**Demonstrações financeiras auditadas**]({{ '/assets/documents/DemFinAudit.PDF' }})
