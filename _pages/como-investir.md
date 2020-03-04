@@ -5,7 +5,7 @@ title: Invista agora
 
 ---
 
-[### Abra ou acesse sua conta conosco](https://blpgestao.orama.com.br/)
+### [Abra ou acesse sua conta conosco](https://blpgestao.orama.com.br/)
 
 {:.partners-list}
 - [**Acesse sua conta**](https://blpgestao.orama.com.br/)
