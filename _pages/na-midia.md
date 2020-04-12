@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[Infomoney: **Fundos de criptomoedas têm captação em meio à crise e superam desempenho do Bitcoin**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-tem-captacao-em-meio-a-crise-e-superam-desempenho-do-bitcoin/) 
 |[Youtube (Participação da BLP Asset): **Promovendo o Futuro do Mercado de Capitais - 43 anos da Lei do Mercado de Capitais - CVM e CFA Institute**](https://www.youtube.com/watch?v=SMmwOHE96a8&feature=youtu.be) 
 |[Youtube (Participação da BLP Asset): **2020 LAIC Credit Suisse: Transformation Arena - Blockchain: Strategies, challenges and perspectives**](https://www.youtube.com/watch?v=JkSh4UKe_Po&feature=youtu.be) 
 |[MoneyTimes: **Axel Blikstad, CFA: o que nos levou a lançar o primeiro fundo de criptoativos no Brasil**](https://moneytimes.com.br/axel-blikstad-cfa-o-que-nos-levou-a-lancar-o-primeiro-fundo-de-criptoativos-no-brasil/) 
