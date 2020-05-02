@@ -5,7 +5,7 @@
   <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | normalize_whitespace | truncate: 160 | default: site.description }}" />
   <meta name="google-site-verification" content="4gEXkSQnEh4O7SoBHYPdg9KGg3CPfyBBrz86RxGxBnc" />
 
-  {%- if page.url == "/" or page.slug contains "genesis" -%}
+  {%- if page.url == "/x" or page.slug contains "genesisx" -%}
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/dialog-polyfill.css' | relative_url }}" />
   {%- endif -%}
   <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
