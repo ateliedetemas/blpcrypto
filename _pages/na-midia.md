@@ -3,7 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
-|[be(in)crypto: **Fundos de criptomoedas fecham trimestre em alta e superam desempenho do Bitcoin e Ibovespa em 2020**](https://cointelegraph.com.br/news/cryptocurrency-funds-attract-investments-and-outperform-bitcoin-in-march?utm_medium=email&_hsmi=87392192&_hsenc=p2ANqtz--8SbaDfeNircowROkbTuWdJ6mZLDTTnaSwtebMm3k8UzihH5cSTVyH3dWFmmzwv71NAhle&utm_content=87392192&utm_source=hs_email) 
+|[CoinTelegraph: **Fundos de criptomoedas fecham trimestre em alta e superam desempenho do Bitcoin e Ibovespa em 2020**](https://cointelegraph.com.br/news/cryptocurrency-funds-attract-investments-and-outperform-bitcoin-in-march?utm_medium=email&_hsmi=87392192&_hsenc=p2ANqtz--8SbaDfeNircowROkbTuWdJ6mZLDTTnaSwtebMm3k8UzihH5cSTVyH3dWFmmzwv71NAhle&utm_content=87392192&utm_source=hs_email) 
 |[be(in)crypto: **Fundos de Criptomoedas Aumentaram Ganhos em 2020, Apesar da Crise**](https://beincrypto.com.br/fundos-de-criptomoedas-aumentaram-ganhos-em-2020-apesar-da-crise/?utm_medium=email&_hsmi=87392192&_hsenc=p2ANqtz-9E4LID8Wf8qnKxnwe7BJWWZLLOORzw4Se8vchz-yZgCk3nqySQd3iYI7is8D0dykc7_vrj&utm_content=87392192&utm_source=hs_email) 
 |[be(in)crypto: **Fundos de Criptomoedas em Alta na Crise**](https://beincrypto.com.br/fundos-de-criptomoedas-em-alta-na-crise/?utm_medium=email&_hsmi=87392192&_hsenc=p2ANqtz-8gWjZY86wDr6UlW9uKYMI7ob6MZIlhQpW24RVsMt--EYv8o7D7577lIyjiJzxhWfAJ4CXz&utm_content=87392192&utm_source=hs_email) 
 |[seudinheiro.com: **Não poderia haver uma crise melhor para o bitcoin, diz gestor da BLP Asset**](https://www.seudinheiro.com/2020/bitcoin/nao-poderia-haver-uma-crise-melhor-para-o-bitcoin-diz-gestor-da-blp-asset/) 
