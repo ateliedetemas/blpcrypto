@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[MoneyTimes: **Alexandre Vasarhelyi: quem serão os verdadeiros ganhadores do embate monetário pós-coronavírus?**](https://www.moneytimes.com.br/alexandre-vasarhelyi-quem-serao-os-verdadeiros-ganhadores-do-embate-monetario-pos-coronavirus/) 
 |[Youtube: **Live - Forbes Money - Mas, afinal, o que é o halving, do Bitcoin ?**](https://www.youtube.com/watch?v=peKPDJMelDg) 
 |[Youtube: **Live - As criptomoedas na contramão da crise**](https://www.youtube.com/watch?v=KYlCJjC2bJE&feature=youtu.be) 
 |[CoinTelegraph: **Fundos de criptomoedas fecham trimestre em alta e superam desempenho do Bitcoin e Ibovespa em 2020**](https://cointelegraph.com.br/news/cryptocurrency-funds-attract-investments-and-outperform-bitcoin-in-march?utm_medium=email&_hsmi=87392192&_hsenc=p2ANqtz--8SbaDfeNircowROkbTuWdJ6mZLDTTnaSwtebMm3k8UzihH5cSTVyH3dWFmmzwv71NAhle&utm_content=87392192&utm_source=hs_email) 
