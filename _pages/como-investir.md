@@ -7,9 +7,9 @@ title: Invista agora
 
 ## Invista conosco
 
-## [Abra sua conta conosco](https://blpgestao.orama.com.br/novo-cadastro/novo-cliente/4289/#/)
+### [Abra sua conta conosco](https://blpgestao.orama.com.br/novo-cadastro/novo-cliente/4289/#/)
 
-## [Acesse sua conta](https://blpgestao.orama.com.br/login/#/)
+### [Acesse sua conta](https://blpgestao.orama.com.br/login/#/)
 
 ### Invista através de nossos parceiros (varejo)
 
