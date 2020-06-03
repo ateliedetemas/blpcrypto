@@ -5,7 +5,7 @@ title: Invista agora
 
 ---
 
-### Invista conosco
+## Invista conosco
 
 ## [Abra sua conta conosco](https://blpgestao.orama.com.br/novo-cadastro/novo-cliente/4289/#/)
 
