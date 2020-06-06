@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[Portal do Bitcoin: **Fundos brasileiros que investem em criptomoedas têm rentabilidade de até 85% em 2020**](https://portaldobitcoin.com/fundos-brasileiros-que-investem-em-criptomoedas-tem-rentabilidade-de-ate-85-em-2020/) 
 |[MoneyTimes: **Alexandre Vasarhelyi: quem serão os verdadeiros ganhadores do embate monetário pós-coronavírus?**](https://www.moneytimes.com.br/alexandre-vasarhelyi-quem-serao-os-verdadeiros-ganhadores-do-embate-monetario-pos-coronavirus/) 
 |[Youtube: **Live - Forbes Money - Mas, afinal, o que é o halving, do Bitcoin ?**](https://www.youtube.com/watch?v=peKPDJMelDg) 
 |[Youtube: **Live - As criptomoedas na contramão da crise**](https://www.youtube.com/watch?v=KYlCJjC2bJE&feature=youtu.be) 
