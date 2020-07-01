@@ -24,3 +24,4 @@ Most of its assets are in the larger crypto assets by market capitalization and 
 
 
 [Offering Memorandum]({{ '/assets/documents/OfferingMemorandum.pdf' | absolute_url }})
+- [Financial Statements and Independent Auditors´ Report]({{ '/assets/documents/FS19.PDF' }})
