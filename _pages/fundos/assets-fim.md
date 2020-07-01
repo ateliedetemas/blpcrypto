@@ -28,4 +28,4 @@ Este fundo é direcionado para investidores profissionais.
 
 - [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-assets-fim.pdf' }})
 - [**Resumo do fundo**]({{ '/assets/documents/LCYA0620.pdf' }})
-- [**Demonstrações financeiras do fundo**]({{ '/assets/documents/DFCY18.pdf' }})
+- [**Demonstrações financeiras do fundo**]({{ '/assets/documents/DFCY19.pdf' }})
