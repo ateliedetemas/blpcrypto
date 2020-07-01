@@ -5,7 +5,7 @@ title: Relatórios
 ---
 ## 2020
 
-[Maio 2020]({{ '/assets/documents/relatorios/2020/05p.pdf' | absolute_url }}) |  
+[Maio 2020]({{ '/assets/documents/relatorios/2020/05p.pdf' | absolute_url }}) | [Junho 2020]({{ '/assets/documents/relatorios/2020/06p.pdf' | absolute_url }}) |  
 [Março 2020]({{ '/assets/documents/relatorios/2020/03p.pdf' | absolute_url }}) |  [Abril 2020]({{ '/assets/documents/relatorios/2020/04p.pdf' | absolute_url }}) 
 [Janeiro 2020]({{ '/assets/documents/relatorios/2020/01p.pdf' | absolute_url }}) | [Fevereiro 2020]({{ "/assets/documents/relatorios/2020/02p.pdf" | absolute_url }})
 
