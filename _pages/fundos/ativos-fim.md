@@ -29,4 +29,4 @@ Este fundo é direcionado para investidores de varejo.
 
 - [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcriptoativos-fim.pdf' }})
 - [**Resumo do Fundo**]({{ '/assets/documents/LCA0620.pdf' }})
-- [**Demonstrações financeiras auditadas**]({{ '/assets/documents/DemFinAudit.PDF' }})
+- [**Demonstrações financeiras auditadas**]({{ '/assets/documents/DFC19.PDF' }})
