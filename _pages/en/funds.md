@@ -23,5 +23,5 @@ Most of its assets are in the larger crypto assets by market capitalization and 
 - **Custodian:** Coinbase Custody
 
 
-[Offering Memorandum]({{ '/assets/documents/OfferingMemorandum.pdf' | absolute_url }})
+- [Offering Memorandum]({{ '/assets/documents/OfferingMemorandum.pdf' | absolute_url }})
 - [Financial Statements and Independent Auditors´ Report]({{ '/assets/documents/FS19.PDF' }})
