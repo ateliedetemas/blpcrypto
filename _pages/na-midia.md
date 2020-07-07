@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[Infomoney: **Fundos de criptomoedas ganham do Bitcoin e saltam até 85% no 1º semestre; confira como investir**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-ganham-do-bitcoin-e-saltam-ate-85-no-1o-semestre-confira-como-investir/) 
 |[Live: **BLP Asset - Crypto Legacy (03/07/2020)**](https://vimeo.com/empiricus/review/435184208/e87c47ccfd) 
 |[Criptofácil: **Fundos de criptoativos rentabilizam quase 27% em 2020**](https://www.criptofacil.com/fundos-criptoativos-rentabilizam-quase-27-2020/) 
 |[Portal do Bitcoin: **Fundos brasileiros que investem em criptomoedas têm rentabilidade de até 85% em 2020**](https://portaldobitcoin.com/fundos-brasileiros-que-investem-em-criptomoedas-tem-rentabilidade-de-ate-85-em-2020/) 
