@@ -17,7 +17,7 @@ title: Na Mídia
 |[be(in)crypto: **Fundos de Criptomoedas em Alta na Crise**](https://beincrypto.com.br/fundos-de-criptomoedas-em-alta-na-crise/?utm_medium=email&_hsmi=87392192&_hsenc=p2ANqtz-8gWjZY86wDr6UlW9uKYMI7ob6MZIlhQpW24RVsMt--EYv8o7D7577lIyjiJzxhWfAJ4CXz&utm_content=87392192&utm_source=hs_email) 
 |[seudinheiro.com: **Não poderia haver uma crise melhor para o bitcoin, diz gestor da BLP Asset**](https://www.seudinheiro.com/2020/bitcoin/nao-poderia-haver-uma-crise-melhor-para-o-bitcoin-diz-gestor-da-blp-asset/) 
 |[Infomoney: **Fundos de criptomoedas têm captação em meio à crise e superam desempenho do Bitcoin**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-tem-captacao-em-meio-a-crise-e-superam-desempenho-do-bitcoin/) 
-|[Youtube (Participação da BLP Asset): **Promovendo o Futuro do Mercado de Capitais - 43 anos da Lei do Mercado de Capitais - CVM e CFA Institute**](https://www.youtube.com/watch?v=SMmwOHE96a8&feature=youtu.be) 
+|[CVMEducacional (Participação da BLP Asset): **Inovações Financeiras II - Blockchain e Criptoativos**](https://www.youtube.com/watch?v=SMmwOHE96a8&feature=youtu.be) 
 |[Youtube (Participação da BLP Asset): **2020 LAIC Credit Suisse: Transformation Arena - Blockchain: Strategies, challenges and perspectives**](https://www.youtube.com/watch?v=JkSh4UKe_Po&feature=youtu.be) 
 |[MoneyTimes: **Axel Blikstad, CFA: o que nos levou a lançar o primeiro fundo de criptoativos no Brasil**](https://moneytimes.com.br/axel-blikstad-cfa-o-que-nos-levou-a-lancar-o-primeiro-fundo-de-criptoativos-no-brasil/) 
 |[Estadão: **Brasileiros criam um ‘Ibovespa’ das criptomoedas**](https://economia.estadao.com.br/noticias/geral,brasileiros-criam-um-ibovespa-das-criptomoedas,70003154197) 
