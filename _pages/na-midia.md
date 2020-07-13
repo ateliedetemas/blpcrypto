@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[Live Banco Daycoval: **O que move os preços das moedas digitais?**](https://www.youtube.com/watch?v=2QIBHYxsxDc) 
 |[Live Necton: **Fundo Criptoativos Entenda**](https://youtu.be/cJBMdi-Vfmc) 
 |[Live CFA Society Brazil: **O Papel dos Cripto Ativos em um Portfólio de Investimentos**](https://www.youtube.com/watch?v=pqi2c1L8WnI&feature=youtu.be) 
 |[Infomoney: **Fundos de criptomoedas ganham do Bitcoin e saltam até 85% no 1º semestre; confira como investir**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-ganham-do-bitcoin-e-saltam-ate-85-no-1o-semestre-confira-como-investir/) 
