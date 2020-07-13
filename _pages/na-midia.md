@@ -4,7 +4,7 @@ layout: page
 title: Na Mídia
 ---
 |[Live Necton: **Fundo Criptoativos Entenda**](https://youtu.be/cJBMdi-Vfmc) 
-|[Live CFA Society Brazil: **Webinar - O Papel dos Cripto Ativos em um Portfólio de Investimentos**](https://www.youtube.com/watch?v=pqi2c1L8WnI&feature=youtu.be) 
+|[Live CFA Society Brazil: **O Papel dos Cripto Ativos em um Portfólio de Investimentos**](https://www.youtube.com/watch?v=pqi2c1L8WnI&feature=youtu.be) 
 |[Infomoney: **Fundos de criptomoedas ganham do Bitcoin e saltam até 85% no 1º semestre; confira como investir**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-ganham-do-bitcoin-e-saltam-ate-85-no-1o-semestre-confira-como-investir/) 
 |[Live Empiricus: **BLP Asset - Crypto Legacy (03/07/2020)**](https://vimeo.com/empiricus/review/435184208/e87c47ccfd) 
 |[Criptofácil: **Fundos de criptoativos rentabilizam quase 27% em 2020**](https://www.criptofacil.com/fundos-criptoativos-rentabilizam-quase-27-2020/) 
