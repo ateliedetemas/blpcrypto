@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[seudinheiro.com: **Onde investir no 2º semestre: bitcoin e criptomoedas devem seguir em alta**](https://www.seudinheiro.com/2020/bolsa-dolar/onde-investir-2semestre-bitcoin-criptomoedas/?xpromo=XD-MI-SDW-MTSD-BMAIL-X-EMAILO-X-X-X&utm_source=SDW&utm_medium=EMAILO&utm_campaign=XD-MI-SDW-MTSD-BMAIL-X-EMAILO-X-X-X) 
 |[Live Banco Daycoval: **O que move os preços das moedas digitais?**](https://www.youtube.com/watch?v=2QIBHYxsxDc) 
 |[Live Necton: **Fundo Criptoativos Entenda**](https://youtu.be/cJBMdi-Vfmc) 
 |[Live CFA Society Brazil: **O Papel dos Cripto Ativos em um Portfólio de Investimentos**](https://www.youtube.com/watch?v=pqi2c1L8WnI&feature=youtu.be) 
