@@ -24,3 +24,4 @@ title: Invista agora
 
 {:.partners-list}
 - [![Planner](/assets/images/partners/planner.png)](https://www.planner.com.br/abra-sua-conta/)
+- [![Azimut](/assets/images/partners/azimut.png)](https://www.azimutbrasil.com.br/)
