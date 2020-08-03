@@ -14,7 +14,7 @@ Para tanto o fundo investe a totalidade de seus recursos no Genesis Block Fund n
 Este fundo é direcionado para investidores profissionais.
 
 - **Categoria** – Fundo de Investimento Multimercado (FIM)
-- **Subscrição Mínima** – R$100.000,00
+- **Subscrição Mínima** – R$ 25.000,00
 - **Subscrição** – até o último dia útil do mês
 - **Resgate** – 15 dias antes do final do mês
 - **Cotização** –  mensal, no último dia útil do mês
