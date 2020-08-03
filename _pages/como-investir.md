@@ -19,7 +19,7 @@ title: Invista agora
 - [![Warren](/assets/images/partners/Warren.png)](https://warren.com.br/)
 - [![RB Investimentos](/assets/images/partners/rbinvest.png)](https://www.rbinvestimentos.com/)
 - [![Necton](/assets/images/partners/necton.png)](https://www.necton.com.br/)
-- [![Consulenza](/assets/images/partners/necton.png)](https://www.consulenzainvestimentos.com.br)
+- [![Consulenza](/assets/images/partners/consulenza.png)](https://www.consulenzainvestimentos.com.br)
 
 ### Invista através de nossos parceiros (investidor profissional)
 
