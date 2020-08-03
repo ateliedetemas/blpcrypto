@@ -22,7 +22,7 @@ Este fundo é direcionado para investidores de varejo.
 - **Taxa de Administração** - 1,50% a.a.
 - **Taxa de Performance** - 20% do que exceder o CDI
 - **Administrador** - Brasil Plural
-- **Distribuidor** - Genial Inv., Órama, Daycoval Inv., Uniletra Inv. e Necton
+- **Distribuidor** - Genial Investimentos, Órama, Azimut, Daycoval, Necton, RB Investimentos, Warren, Consulenza Investimentos
 - **Gestora** - BLP Gestora de Recursos LTDA
 - **Auditor** - UHY Bendoraytes & Cia
 - **Legal** - Madrona 
