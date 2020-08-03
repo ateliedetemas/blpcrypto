@@ -14,7 +14,7 @@ title: Invista agora
 {:.partners-list}
 - [![Genial Investimentos](/assets/images/partners/genial.png)](https://www.genialinvestimentos.com.br/investimentos/fundos/lista-completa/)
 - [![Órama](/assets/images/partners/orama.png)](https://www.orama.com.br/investimentos/lista-fundos-de-investimento)
-- [![Daycoval Digital](/assets/images/partners/daycoval.jpg)](https://www.daycoval.com.br/para-voce/investimentos-pessoa-fisica/fundos-terceiros)
+- [![Daycoval Digital](/assets/images/partners/daycoval.png)](https://www.daycoval.com.br/para-voce/investimentos-pessoa-fisica/fundos-terceiros)
 - [![Azimut](/assets/images/partners/azimut.png)](https://www.azimutbrasil.com.br/)
 - [![Warren](/assets/images/partners/warren1.png)](https://warren.com.br/)
 - [![RB Investimentos](/assets/images/partners/rbinvest.png)](https://www.rbinvestimentos.com/)
