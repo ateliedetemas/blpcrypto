@@ -16,7 +16,7 @@ title: Invista agora
 - [![Órama](/assets/images/partners/orama.png)](https://www.orama.com.br/investimentos/lista-fundos-de-investimento)
 - [![Daycoval Digital](/assets/images/partners/daycoval.jpg)](https://www.daycoval.com.br/para-voce/investimentos-pessoa-fisica/fundos-terceiros)
 - [![Azimut](/assets/images/partners/azimut.png)](https://www.azimutbrasil.com.br/)
-- [![Warren](/assets/images/partners/Warren.png)](https://warren.com.br/)
+- [![Warren](/assets/images/partners/Warren1.png)](https://warren.com.br/)
 - [![RB Investimentos](/assets/images/partners/rbinvest.png)](https://www.rbinvestimentos.com/)
 - [![Necton](/assets/images/partners/necton.png)](https://www.necton.com.br/)
 - [![Consulenza](/assets/images/partners/consulenza.png)](https://www.consulenzainvestimentos.com.br)
