@@ -20,5 +20,4 @@ title: Invista agora
 ### Invista através de nossos parceiros (investidor profissional)
 
 --
-[**Planner**](https://www.planner.com.br/abra-sua-conta/)
-[**Azimut**](https://www.azimutbrasil.com.br/)
+[**Planner**](https://www.planner.com.br/abra-sua-conta/) | [**Azimut**](https://www.azimutbrasil.com.br/)
