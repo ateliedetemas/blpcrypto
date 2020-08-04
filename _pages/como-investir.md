@@ -11,18 +11,14 @@ title: Invista agora
 
 ### Invista através de nossos parceiros (varejo)
 
-{:.partners-list}
-- [![Genial Investimentos](/assets/images/partners/genial1.png)](https://www.genialinvestimentos.com.br/investimentos/fundos/lista-completa/)
-- [![Órama](/assets/images/partners/orama1.png)](https://www.orama.com.br/investimentos/lista-fundos-de-investimento)
-- [![Daycoval Digital](/assets/images/partners/daycoval1.png)](https://www.daycoval.com.br/para-voce/investimentos-pessoa-fisica/fundos-terceiros)
-- [![Azimut](/assets/images/partners/azimut.png)](https://www.azimutbrasil.com.br/)
-- [![Warren](/assets/images/partners/warren1.png)](https://warren.com.br/)
-- [![RB Investimentos](/assets/images/partners/rbinvest.png)](https://www.rbinvestimentos.com/)
-- [![Necton](/assets/images/partners/necton.png)](https://www.necton.com.br/)
-- [![Consulenza](/assets/images/partners/consulenza.png)](https://www.consulenzainvestimentos.com.br)
+---
+[**Genial investimentos**](https://www.genialinvestimentos.com.br/investimentos/fundos/lista-completa/) |  [**Órama**](https://www.orama.com.br/investimentos/lista-fundos-de-investimento)
+[**Daycoval Digital**](https://www.daycoval.com.br/para-voce/investimentos-pessoa-fisica/fundos-terceiros) | [**Azimut**](https://www.azimutbrasil.com.br/)
+[**Warren**](https://warren.com.br/) | [**RB Investimentos**](https://www.rbinvestimentos.com/)
+[**Necton**](https://www.necton.com.br/) | [**Consulenza investimentos**](https://www.consulenzainvestimentos.com.br)
 
 ### Invista através de nossos parceiros (investidor profissional)
 
-{:.partners-list}
-- [![Planner](/assets/images/partners/planner.png)](https://www.planner.com.br/abra-sua-conta/)
-- [![Azimut](/assets/images/partners/azimut.png)](https://www.azimutbrasil.com.br/)
+--
+[**Planner**](https://www.planner.com.br/abra-sua-conta/)
+[**Azimut**](https://www.azimutbrasil.com.br/)
