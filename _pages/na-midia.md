@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[CoinTelegraph: **Fundos Multimercado de Bitcoin e criptomoedas são eleitos os mais rentáveis do Brasil**](https://cointelegraph.com.br/news/bitcoin-and-cryptocurrency-multimarket-funds-are-elected-the-most-profitable-in-brazil) 
 |[Live Consulenza Investimentos: **Consulenza Talks - com Glauco Cavalcanti e Axel Blikstad - da BLP Asset**](https://www.youtube.com/watch?v=GtbhNZNj2Aw&feature=youtu.be) 
 |[seudinheiro.com: **Onde investir no 2º semestre: bitcoin e criptomoedas devem seguir em alta**](https://www.seudinheiro.com/2020/bolsa-dolar/onde-investir-2semestre-bitcoin-criptomoedas/?xpromo=XD-MI-SDW-MTSD-BMAIL-X-EMAILO-X-X-X&utm_source=SDW&utm_medium=EMAILO&utm_campaign=XD-MI-SDW-MTSD-BMAIL-X-EMAILO-X-X-X) 
 |[Live Banco Daycoval: **O que move os preços das moedas digitais?**](https://www.youtube.com/watch?v=2QIBHYxsxDc) 
