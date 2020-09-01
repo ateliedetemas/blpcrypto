@@ -27,5 +27,5 @@ Este fundo é direcionado para investidores profissionais.
 - **Legal** – Madrona
 
 - [**Regulamento do Fundo**]({{ '/assets/documents/regulamento-blpcrypto-assets-fim.pdf' }})
-- [**Resumo do fundo**]({{ '/assets/documents/LCYA0720.pdf' }})
+- [**Resumo do fundo**]({{ '/assets/documents/LCYA0820.pdf' }})
 - [**Demonstrações financeiras do fundo**]({{ '/assets/documents/DFCY19.pdf' }})
