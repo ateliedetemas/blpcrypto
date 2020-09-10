@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[ValorInveste: **Número de investidores em fundos de criptomoedas cresce 11 vezes em 2020**](https://valorinveste.globo.com/mercados/cripto/noticia/2020/09/08/numero-de-investidores-em-fundos-de-criptomoedas-cresce-11-vezes-em-2020.ghtml)
 |[beincrypto: **Fundos de criptomoedas: o que são e como investir?**](https://beincrypto.com.br/aprender/fundos-de-criptomoedas/) 
 |[Infomoney: **Com alta de 63% em 2020, Bitcoin começa a cair no gosto de gestores de multimercados no Brasil e no exterior**](https://www.infomoney.com.br/onde-investir/com-alta-de-63-em-2020-bitcoin-comeca-a-cair-no-gosto-de-gestores-de-multimercados-no-brasil-e-no-exterior/) 
 |[CoinTelegraph: **Fundos Multimercado de Bitcoin e criptomoedas são eleitos os mais rentáveis do Brasil**](https://cointelegraph.com.br/news/bitcoin-and-cryptocurrency-multimarket-funds-are-elected-the-most-profitable-in-brazil) 
