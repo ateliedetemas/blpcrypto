@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[beincrypto: **“Bitcoin, hoje, é menos arriscado que a Apple”, diz gestor de fundo de criptomoedas no Brasil**](https://beincrypto.com.br/bitcoin-hoje-e-menos-arriscado-que-a-apple-diz-gestor-de-fundo-de-criptomoedas-no-brasil/) 
 |[Infomoney: **Fundos de criptomoedas têm pior mês desde março, mas acumulam retorno de até 150% em 2020**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-caem-forte-em-setembro-mas-valorizacao-em-2020-chega-a-ate-150/) 
 |[CoinTelegraph: **Fundos Multimercado baseados em Bitcoin e Criptomoedas estão em ascensão no Brasil**](https://cointelegraph.com.br/news/bitcoin-and-cryptocurrency-based-multimarket-funds-are-on-the-rise-in-brazil) 
 |[ValorInveste: **Número de investidores em fundos de criptomoedas cresce 11 vezes em 2020**](https://valorinveste.globo.com/mercados/cripto/noticia/2020/09/08/numero-de-investidores-em-fundos-de-criptomoedas-cresce-11-vezes-em-2020.ghtml)
