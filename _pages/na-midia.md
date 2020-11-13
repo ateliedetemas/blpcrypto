@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[Infomoney: **Com alta de 63% em 2020, Bitcoin começa a cair no gosto de gestores de multimercados no Brasil e no exterior**](https://www.infomoney.com.br/onde-investir/com-alta-de-63-em-2020-bitcoin-comeca-a-cair-no-gosto-de-gestores-de-multimercados-no-brasil-e-no-exterior/?utm_medium=email&_hsmi=98442642&_hsenc=p2ANqtz--1AAumvOJ9LYkg4qILf3iOzl8JRo9LlgDNGVeDWrLM3XA5w3wJnnZ-MKDrXZ-95LmdPUCwZT17WZYxRXnDqzAeRdSvAIXEbpMOAs1t8FqiyRwewYM&utm_content=98442642&utm_source=hs_email) 
 |[beincrypto: **“Bitcoin, hoje, é menos arriscado que a Apple”, diz gestor de fundo de criptomoedas no Brasil**](https://beincrypto.com.br/bitcoin-hoje-e-menos-arriscado-que-a-apple-diz-gestor-de-fundo-de-criptomoedas-no-brasil/) 
 |[Infomoney: **Fundos de criptomoedas têm pior mês desde março, mas acumulam retorno de até 150% em 2020**](https://www.infomoney.com.br/mercados/fundos-de-criptomoedas-caem-forte-em-setembro-mas-valorizacao-em-2020-chega-a-ate-150/) 
 |[CoinTelegraph: **Fundos Multimercado baseados em Bitcoin e Criptomoedas estão em ascensão no Brasil**](https://cointelegraph.com.br/news/bitcoin-and-cryptocurrency-based-multimarket-funds-are-on-the-rise-in-brazil) 
