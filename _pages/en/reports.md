@@ -6,7 +6,7 @@ permalink: "/en/reports/"
 ---
 
 ## 2020
-[September 2020]({{ '/assets/documents/relatorios/2020/11e.pdf' | absolute_url }})  | 
+[September 2020]({{ '/assets/documents/relatorios/2020/11e.pdf' | absolute_url }})  | |
 [September 2020]({{ '/assets/documents/relatorios/2020/09e.pdf' | absolute_url }})  |  [October 2020]({{ '/assets/documents/relatorios/2020/10e.pdf' | absolute_url }})    
 [July 2020]({{ '/assets/documents/relatorios/2020/07e.pdf' | absolute_url }})  |  [August 2020]({{ '/assets/documents/relatorios/2020/08e.pdf' | absolute_url }})  
 [May 2020]({{ '/assets/documents/relatorios/2020/05e.pdf' | absolute_url }})  | [June 2020]({{ '/assets/documents/relatorios/2020/06e.pdf' | absolute_url }})  
