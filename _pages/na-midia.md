@@ -3,6 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
+|[Exame.com: **Criptoativos mudarão mais o mundo do que a Internet, diz CEO da BLP Asset**](https://exame.com/future-of-money/perspectivas-2021/criptoativos-mudarao-mais-o-mundo-do-que-a-internet-diz-ceo-da-blp-asset/)
 |[Portal do Bitcoin: **20 diferenças da alta do bitcoin de 2017 para a de 2020. Perto dos R$ 100 mil no Brasil, valorização nas últimas semanas é constante e silenciosa**](https://portaldobitcoin.uol.com.br/20-diferencas-da-alta-do-bitcoin-de-2017-para-a-de-2020/) 
 |[Infomoney: **Com alta de 63% em 2020, Bitcoin começa a cair no gosto de gestores de multimercados no Brasil e no exterior**](https://www.infomoney.com.br/onde-investir/com-alta-de-63-em-2020-bitcoin-comeca-a-cair-no-gosto-de-gestores-de-multimercados-no-brasil-e-no-exterior/?utm_medium=email&_hsmi=98442642&_hsenc=p2ANqtz--1AAumvOJ9LYkg4qILf3iOzl8JRo9LlgDNGVeDWrLM3XA5w3wJnnZ-MKDrXZ-95LmdPUCwZT17WZYxRXnDqzAeRdSvAIXEbpMOAs1t8FqiyRwewYM&utm_content=98442642&utm_source=hs_email) 
 |[beincrypto: **“Bitcoin, hoje, é menos arriscado que a Apple”, diz gestor de fundo de criptomoedas no Brasil**](https://beincrypto.com.br/bitcoin-hoje-e-menos-arriscado-que-a-apple-diz-gestor-de-fundo-de-criptomoedas-no-brasil/) 
