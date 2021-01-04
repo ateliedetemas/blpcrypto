@@ -3,7 +3,7 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
-|[ValorInveste: **Ouro, bitcoin, maconha: fundos ‘diferentões’ batem o Ibovespa de longe em 2020**]https://valorinveste.globo.com/produtos/fundos/noticia/2021/01/04/ouro-bitcoin-maconha-fundos-diferentoes-batem-o-ibovespa-de-longe-em-2020.ghtml)
+|[ValorInveste: **Ouro, bitcoin, maconha: fundos ‘diferentões’ batem o Ibovespa de longe em 2020**](https://valorinveste.globo.com/produtos/fundos/noticia/2021/01/04/ouro-bitcoin-maconha-fundos-diferentoes-batem-o-ibovespa-de-longe-em-2020.ghtml)
 |[Portal do Bitcoin: **Por que o bitcoin não para de subir e até onde vai a alta**](https://portaldobitcoin.uol.com.br/por-que-o-bitcoin-nao-para-de-subir-e-ate-onde-vai-a-alta/)
 |[Exame.com: **Criptoativos mudarão mais o mundo do que a Internet, diz CEO da BLP Asset**](https://exame.com/future-of-money/perspectivas-2021/criptoativos-mudarao-mais-o-mundo-do-que-a-internet-diz-ceo-da-blp-asset/)
 |[Portal do Bitcoin: **20 diferenças da alta do bitcoin de 2017 para a de 2020. Perto dos R$ 100 mil no Brasil, valorização nas últimas semanas é constante e silenciosa**](https://portaldobitcoin.uol.com.br/20-diferencas-da-alta-do-bitcoin-de-2017-para-a-de-2020/) 
