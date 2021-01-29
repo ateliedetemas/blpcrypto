@@ -3,7 +3,8 @@ lang: pt
 layout: page
 title: Na Mídia
 ---
-|[Comentário da BLP Crypto:**NFTs – Non-Fungible Tokens**]({{ '/assets/documents/NFT.PDF' }})
+
+|[Comentário da BLP Crypto: **NFTs – Non-Fungible Tokens**]({{ '/assets/documents/NFT.PDF' }})
 |[Infomoney: **Interessado em Bitcoin após a alta de 2020? Especialistas indicam quanto investir e os melhores caminhos**](https://www.infomoney.com.br/onde-investir/interessado-em-bitcoin-apos-a-alta-de-2020-especialistas-indicam-quanto-investir-e-os-melhores-caminhos/) 
 |[ValorInveste: **O bitcoin em 2020: de US$ 7 mil a US$ 30 mil, o ano em que os institucionais perderam o medo**](https://valorinveste.globo.com/mercados/cripto/noticia/2021/01/12/o-bitcoin-em-2020-de-us-7-mil-a-us-30-mil-o-ano-em-que-os-institucionais-perderam-o-medo.ghtml)
 |[ValorInveste: **Ouro, bitcoin, maconha: fundos ‘diferentões’ batem o Ibovespa de longe em 2020**](https://valorinveste.globo.com/produtos/fundos/noticia/2021/01/04/ouro-bitcoin-maconha-fundos-diferentoes-batem-o-ibovespa-de-longe-em-2020.ghtml)
