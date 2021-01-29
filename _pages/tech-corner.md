@@ -3,8 +3,7 @@ lang: pt
 layout: page
 title: Tech Corner
 ---
-|[NFTs – Non-Fungible Tokens]({{ '/assets/documents/NFT.PDF' }})
-[Yield Farming]({{ "/assets/documents/tech-corner/2020/07.pdf" }}) |  
+|[NFTs – Non-Fungible Tokens]({{ '/assets/documents/NFT.PDF' }}) | [Yield Farming]({{ "/assets/documents/tech-corner/2020/07.pdf" }})
 [ETH 2.0]({{ "/assets/documents/tech-corner/2020/03.pdf" }}) | [Smart Contracts]({{ "/assets/documents/tech-corner/2020/04.pdf" }})  
 [Taproot BIP Proposal]({{ "/assets/documents/tech-corner/2020/01.pdf" }}) |  [Halving]({{ "/assets/documents/tech-corner/2020/02.pdf" }})  
 [MPC (Multi-Party Computation)]({{ "/assets/documents/tech-corner/2019/11.pdf" }}) |  [tBTC (Bitcoin on the Ethereum network)]({{ "/assets/documents/tech-corner/2019/12.pdf" }}) 
