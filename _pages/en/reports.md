@@ -5,6 +5,10 @@ title: Monthly Reports
 permalink: "/en/reports/"
 ---
 
+## 2021
+
+[January 2021]({{ '/assets/documents/relatorios/2021/01e.pdf' | absolute_url }})  |   
+
 ## 2020
 
 [November 2020]({{ '/assets/documents/relatorios/2020/11e.pdf' | absolute_url }})  |  [December 2020]({{ '/assets/documents/relatorios/2020/12e.pdf' | absolute_url }}) 
