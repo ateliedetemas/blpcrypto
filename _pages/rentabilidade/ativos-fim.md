@@ -8,8 +8,9 @@ permalink: "/rentabilidade/ativos-fim/"
 
 Período | Fundo | CDI
 ---|---|---
+**fev/21** | 4,13% | 0,13%
 **jan/21** | 7,29% | 0,15%
-**Ano**  | **7,29%** | **0,15%**
+**Ano**  | **11,73%** | **0,28%**
 
 ## 2020
 
