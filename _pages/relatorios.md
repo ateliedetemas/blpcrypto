@@ -5,7 +5,7 @@ title: Relatórios
 ---
 ## 2020
 
-[Janeiro 2021]({{ '/assets/documents/relatorios/2021/01p.pdf' | absolute_url }}) |  
+[Janeiro 2021]({{ '/assets/documents/relatorios/2021/01p.pdf' | absolute_url }}) |  [Fevereiro 2021]({{ '/assets/documents/relatorios/2021/02p.pdf' | absolute_url }})
 
 ## 2020
 
