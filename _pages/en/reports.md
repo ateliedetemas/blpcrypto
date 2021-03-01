@@ -7,7 +7,7 @@ permalink: "/en/reports/"
 
 ## 2021
 
-[January 2021]({{ '/assets/documents/relatorios/2021/01e.pdf' | absolute_url }})  |   
+[January 2021]({{ '/assets/documents/relatorios/2021/01e.pdf' | absolute_url }})  |   [February 2021]({{ '/assets/documents/relatorios/2021/02e.pdf' | absolute_url }}) 
 
 ## 2020
 
